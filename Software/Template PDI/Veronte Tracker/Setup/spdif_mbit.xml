@@ -1,0 +1,25 @@
+<entry-mbit>
+    <id>138</id>
+    <filename>mbit.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <map>
+            <str-tunarray-element>
+                <id>1219</id>
+                <description>
+                    <name/>
+                </description>
+            </str-tunarray-element>
+            <str-tunarray-element>
+                <id>1467</id>
+                <description>
+                    <name/>
+                </description>
+            </str-tunarray-element>
+        </map>
+    </data>
+</entry-mbit>

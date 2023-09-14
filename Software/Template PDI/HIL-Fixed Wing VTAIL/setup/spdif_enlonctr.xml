@@ -1,0 +1,21 @@
+<entry-enlonctr>
+    <id>118</id>
+    <filename>enlonctr.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <kgae_table>
+            <str-tunarray-element>
+                <x>1.1</x>
+                <y1>0.0</y1>
+            </str-tunarray-element>
+            <str-tunarray-element>
+                <x>1.3</x>
+                <y1>1.0</y1>
+            </str-tunarray-element>
+        </kgae_table>
+    </data>
+</entry-enlonctr>

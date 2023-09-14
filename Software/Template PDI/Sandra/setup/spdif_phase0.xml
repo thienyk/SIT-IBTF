@@ -1,0 +1,11 @@
+<entry-phase0>
+    <id>154</id>
+    <filename>phase0.bin</filename>
+    <data>
+        <enabled-choice>
+            <enabled-choice-0>
+                <enabled>0</enabled>
+            </enabled-choice-0>
+        </enabled-choice>
+    </data>
+</entry-phase0>

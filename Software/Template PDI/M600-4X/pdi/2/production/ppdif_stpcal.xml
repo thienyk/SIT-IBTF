@@ -1,0 +1,16 @@
+<entry-stpcal>
+    <id>251</id>
+    <filename>stpcal.bin</filename>
+    <data>
+        <c0>
+            <bias>0.0</bias>
+            <scale-factor>0.0</scale-factor>
+            <variance>0.0</variance>
+        </c0>
+        <c1>
+            <bias>0.0</bias>
+            <scale-factor>0.0</scale-factor>
+            <variance>0.0</variance>
+        </c1>
+    </data>
+</entry-stpcal>

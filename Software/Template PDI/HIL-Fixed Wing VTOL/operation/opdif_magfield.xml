@@ -1,0 +1,17 @@
+<entry-magfield>
+    <id>22</id>
+    <filename>magfield.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <bh>
+            <x>2.6829479E-5</x>
+            <y>2.8081521E-7</y>
+            <z>3.517455E-5</z>
+        </bh>
+        <threshold>1.0</threshold>
+    </data>
+</entry-magfield>

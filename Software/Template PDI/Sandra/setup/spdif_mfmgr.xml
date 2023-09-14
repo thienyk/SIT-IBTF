@@ -1,0 +1,18 @@
+<entry-mfmgr>
+    <id>148</id>
+    <filename>mfmgr.bin</filename>
+    <data>
+        <map>
+            <str-tunarray-element str-tunarray-key="8194">
+                <data>
+                    <string>Desired position</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="8196">
+                <data>
+                    <string>Track position</string>
+                </data>
+            </str-tunarray-element>
+        </map>
+    </data>
+</entry-mfmgr>

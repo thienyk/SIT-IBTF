@@ -1,0 +1,25 @@
+<entry-mbit>
+    <id>138</id>
+    <filename>mbit.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <map>
+            <str-tunarray-element>
+                <id>1200</id>
+                <description>
+                    <name>Hold area Here</name>
+                </description>
+            </str-tunarray-element>
+            <str-tunarray-element>
+                <id>1201</id>
+                <description>
+                    <name>Area of interest Flag</name>
+                </description>
+            </str-tunarray-element>
+        </map>
+    </data>
+</entry-mbit>

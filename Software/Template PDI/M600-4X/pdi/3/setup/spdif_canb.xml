@@ -1,0 +1,8 @@
+<entry-canb>
+    <id>35</id>
+    <filename>canb.bin</filename>
+    <data>
+        <baudrate>1000000</baudrate>
+        <rx/>
+    </data>
+</entry-canb>

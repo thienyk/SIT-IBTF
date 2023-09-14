@@ -1,0 +1,10 @@
+<entry-external-obstacles>
+    <id>152</id>
+    <filename>extobs.bin</filename>
+    <data>
+        <map>
+            <enable>0</enable>
+            <time>2.0</time>
+        </map>
+    </data>
+</entry-external-obstacles>

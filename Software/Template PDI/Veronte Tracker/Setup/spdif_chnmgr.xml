@@ -1,0 +1,13 @@
+<entry-channelmgr>
+    <id>10</id>
+    <filename>chnmgr.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <configs/>
+        <channels/>
+    </data>
+</entry-channelmgr>

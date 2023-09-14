@@ -1,0 +1,181 @@
+<entry-mevact>
+    <id>129</id>
+    <filename>mevact.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <map>
+            <str-tunarray-element str-tunarray-key="0">
+                <data>
+                    <name>SBY Button (EIN)</name>
+                    <group>0</group>
+                    <order>3</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="1">
+                <data>
+                    <name>CMB Button</name>
+                    <group>0</group>
+                    <order>8</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="2">
+                <data>
+                    <name>TKO to CMB</name>
+                    <group>6</group>
+                    <order>0</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="3">
+                <data>
+                    <name>CMB to CRU</name>
+                    <group>6</group>
+                    <order>1</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="4">
+                <data>
+                    <name>LND Button</name>
+                    <group>0</group>
+                    <order>9</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="5">
+                <data>
+                    <name>CRU Button</name>
+                    <group>0</group>
+                    <order>5</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="6">
+                <data>
+                    <name>TKO Button</name>
+                    <group>0</group>
+                    <order>6</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="7">
+                <data>
+                    <name>SBY Button</name>
+                    <group>0</group>
+                    <order>2</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="10">
+                <data>
+                    <name>Auto when No Stick</name>
+                    <group>2</group>
+                    <order>0</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="11">
+                <data>
+                    <name>Auto Mode</name>
+                    <group>1</group>
+                    <order>0</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="12">
+                <data>
+                    <name>Manual Mode (Arcade)</name>
+                    <group>1</group>
+                    <order>2</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="15">
+                <data>
+                    <name>Arcade Trim</name>
+                    <group>0</group>
+                    <order>1</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="16">
+                <data>
+                    <name>LND to FLARE</name>
+                    <group>6</group>
+                    <order>2</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="17">
+                <data>
+                    <name>Reset Flight Time</name>
+                    <group>4</group>
+                    <order>1</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="18">
+                <data>
+                    <name>Brakes off</name>
+                    <group>3</group>
+                    <order>1</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="19">
+                <data>
+                    <name>FLARE to SBY</name>
+                    <group>6</group>
+                    <order>3</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="21">
+                <data>
+                    <name>Arcade Mode</name>
+                    <group>1</group>
+                    <order>1</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="22">
+                <data>
+                    <name>-10</name>
+                    <group>5</group>
+                    <order>1</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="23">
+                <data>
+                    <name>HLD Button</name>
+                    <group>0</group>
+                    <order>7</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="24">
+                <data>
+                    <name>ALT Button</name>
+                    <group>0</group>
+                    <order>4</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="25">
+                <data>
+                    <name>+10</name>
+                    <group>5</group>
+                    <order>0</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="27">
+                <data>
+                    <name>Brakes on</name>
+                    <group>3</group>
+                    <order>0</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="28">
+                <data>
+                    <name>Stop Flight Time</name>
+                    <group>4</group>
+                    <order>0</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="29">
+                <data>
+                    <name>Hold trim</name>
+                    <group>0</group>
+                    <order>0</order>
+                </data>
+            </str-tunarray-element>
+        </map>
+    </data>
+</entry-mevact>

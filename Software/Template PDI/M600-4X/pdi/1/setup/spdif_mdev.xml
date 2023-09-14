@@ -1,0 +1,12 @@
+<entry-mdevice>
+    <id>147</id>
+    <filename>mdev.bin</filename>
+    <data>
+        <map>
+            <cameras/>
+            <drops>
+                <drop-system-array/>
+            </drops>
+        </map>
+    </data>
+</entry-mdevice>

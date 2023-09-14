@@ -1,0 +1,16 @@
+<entry-foimgr>
+    <id>85</id>
+    <filename>foimgr.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <str-tunarray-element str-tunarray-key="0">
+            <data>
+                <foi>28672</foi>
+            </data>
+        </str-tunarray-element>
+    </data>
+</entry-foimgr>

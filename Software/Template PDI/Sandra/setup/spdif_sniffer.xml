@@ -1,0 +1,30 @@
+<entry-sniffer>
+    <id>63</id>
+    <filename>sniffer.bin</filename>
+    <data>
+        <str-tunarray-element>
+            <fields/>
+            <pktmask>
+                <uav>1143</uav>
+            </pktmask>
+            <map>
+                <str-tunarray-element str-tunarray-key="0">
+                    <data>
+                        <type>0</type>
+                        <id-in>0</id-in>
+                        <id-out>7</id-out>
+                        <id-vdst>65535</id-vdst>
+                    </data>
+                </str-tunarray-element>
+                <str-tunarray-element str-tunarray-key="1">
+                    <data>
+                        <type>0</type>
+                        <id-in>9</id-in>
+                        <id-out>10</id-out>
+                        <id-vdst>65535</id-vdst>
+                    </data>
+                </str-tunarray-element>
+            </map>
+        </str-tunarray-element>
+    </data>
+</entry-sniffer>

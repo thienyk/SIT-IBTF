@@ -1,0 +1,8 @@
+<entry-cana>
+    <id>34</id>
+    <filename>cana.bin</filename>
+    <data>
+        <baudrate>1000000</baudrate>
+        <rx/>
+    </data>
+</entry-cana>

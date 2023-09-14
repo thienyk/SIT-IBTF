@@ -1,0 +1,44 @@
+<entry-polymgr>
+    <id>21</id>
+    <filename>polymgr.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <polygons/>
+        <circles>
+            <str-tunarray-element str-tunarray-key="0">
+                <data>
+                    <circle>
+                        <fid>45056</fid>
+                        <R>10000.0</R>
+                    </circle>
+                    <height>
+                        <upper-limited>0</upper-limited>
+                        <upper>
+                            <type>2</type>
+                            <h>
+                                <vref-kval>
+                                    <type>65534</type>
+                                    <kval>100000.0</kval>
+                                </vref-kval>
+                            </h>
+                        </upper>
+                        <lower-limited>0</lower-limited>
+                        <lower>
+                            <type>2</type>
+                            <h>
+                                <vref-kval>
+                                    <type>65534</type>
+                                    <kval>100000.0</kval>
+                                </vref-kval>
+                            </h>
+                        </lower>
+                    </height>
+                </data>
+            </str-tunarray-element>
+        </circles>
+    </data>
+</entry-polymgr>

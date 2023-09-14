@@ -1,0 +1,14 @@
+<entry-ussa76ex>
+    <id>40</id>
+    <filename>us76ex.bin</filename>
+    <data>
+        <enable>0</enable>
+        <addr>
+            <uav>998</uav>
+        </addr>
+        <period>60.0</period>
+        <ext-alt>0</ext-alt>
+        <alt>0.0</alt>
+        <T1>288.15</T1>
+    </data>
+</entry-ussa76ex>

@@ -1,0 +1,109 @@
+<entry-maction>
+    <id>130</id>
+    <filename>maction.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <map>
+            <str-tunarray-element str-tunarray-key="0">
+                <data>
+                    <name>
+                        <name>READY</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="1">
+                <data>
+                    <name>
+                        <name>TILT On</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="2">
+                <data>
+                    <name>
+                        <name>TILT Off</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="3">
+                <data>
+                    <name>
+                        <name>Vector Body 0</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="4">
+                <data>
+                    <name>
+                        <name>Track Vehicle</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="7">
+                <data>
+                    <name>
+                        <name>Write MAG X</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="10">
+                <data>
+                    <name>
+                        <name>Write MAG Y</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="11">
+                <data>
+                    <name>
+                        <name>Write MAG Z</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+        </map>
+    </data>
+</entry-maction>

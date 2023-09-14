@@ -1,0 +1,55 @@
+<entry-mevact>
+    <id>129</id>
+    <filename>mevact.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <map>
+            <str-tunarray-element str-tunarray-key="0">
+                <data>
+                    <name>Off</name>
+                    <group>1</group>
+                    <order>0</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="1">
+                <data>
+                    <name>On</name>
+                    <group>1</group>
+                    <order>1</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="2">
+                <data>
+                    <name>Neutral position</name>
+                    <group>0</group>
+                    <order>0</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="3">
+                <data>
+                    <name>Track Vehicle</name>
+                    <group>0</group>
+                    <order>1</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="4">
+                <data>
+                    <name>Define Yaw Button</name>
+                    <group>0</group>
+                    <order>2</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="7">
+                <data>
+                    <name>SBY Button</name>
+                    <group>0</group>
+                    <order>3</order>
+                </data>
+            </str-tunarray-element>
+        </map>
+    </data>
+</entry-mevact>

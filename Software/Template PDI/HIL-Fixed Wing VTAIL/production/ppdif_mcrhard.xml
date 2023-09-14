@@ -1,0 +1,14 @@
+<entry-microhard>
+    <id>49</id>
+    <filename>mcrhard.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <configure>0</configure>
+        <model>4</model>
+        <generic/>
+    </data>
+</entry-microhard>

@@ -1,0 +1,38 @@
+<entry-mevent>
+    <id>128</id>
+    <filename>mevent.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <map>
+            <str-tunarray-element str-tunarray-key="0">
+                <data>
+                    <name>SBY Button</name>
+                    <dataTypeColor>
+                        <cmpType3>
+                            <typeColor>1</typeColor>
+                            <var>
+                                <vref-var>
+                                    <type>0</type>
+                                    <id>4101</id>
+                                </vref-var>
+                            </var>
+                            <arrayColores/>
+                        </cmpType3>
+                    </dataTypeColor>
+                    <check>
+                        <data>
+                            <icon>10</icon>
+                            <timeControl>0.0</timeControl>
+                            <check>0</check>
+                            <checkTime>0</checkTime>
+                        </data>
+                    </check>
+                </data>
+            </str-tunarray-element>
+        </map>
+    </data>
+</entry-mevent>

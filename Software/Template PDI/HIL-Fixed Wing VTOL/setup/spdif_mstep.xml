@@ -1,0 +1,23 @@
+<entry-mstep>
+    <id>143</id>
+    <filename>mstep.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <map>
+            <str-tunarray-element str-tunarray-key="0">
+                <data>
+                    <string>UF5</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="2">
+                <data>
+                    <string>U8 FF</string>
+                </data>
+            </str-tunarray-element>
+        </map>
+    </data>
+</entry-mstep>

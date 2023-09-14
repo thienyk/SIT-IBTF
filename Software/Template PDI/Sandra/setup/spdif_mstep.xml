@@ -1,0 +1,18 @@
+<entry-mstep>
+    <id>143</id>
+    <filename>mstep.bin</filename>
+    <data>
+        <map>
+            <str-tunarray-element str-tunarray-key="200">
+                <data>
+                    <string>Tether Multiplier</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="201">
+                <data>
+                    <string>Voltage Conversion</string>
+                </data>
+            </str-tunarray-element>
+        </map>
+    </data>
+</entry-mstep>

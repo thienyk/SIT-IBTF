@@ -1,0 +1,15 @@
+<entry-cantm-c0>
+    <id>37</id>
+    <filename>cantmc0.bin</filename>
+    <data>
+        <data-fcan-consumer-rx>
+            <str-tunarray-element>
+                <id>
+                    <ext>0</ext>
+                    <id>255</id>
+                </id>
+                <msgid>9</msgid>
+            </str-tunarray-element>
+        </data-fcan-consumer-rx>
+    </data>
+</entry-cantm-c0>

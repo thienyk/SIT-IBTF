@@ -1,0 +1,118 @@
+<entry-mstep>
+    <id>143</id>
+    <filename>mstep.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <map>
+            <str-tunarray-element str-tunarray-key="0">
+                <data>
+                    <string>YAW Speed</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="1">
+                <data>
+                    <string>PITCH Bound</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="2">
+                <data>
+                    <string>YAW Right</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="3">
+                <data>
+                    <string>PITCH Output</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="4">
+                <data>
+                    <string>YAW Output</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="5">
+                <data>
+                    <string>YAW Left</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="6">
+                <data>
+                    <string>YAW Output</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="7">
+                <data>
+                    <string>MAG</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="8">
+                <data>
+                    <string>PITCH Enable</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="9">
+                <data>
+                    <string>Horizotal distance</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="10">
+                <data>
+                    <string>h^2</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="11">
+                <data>
+                    <string>b^2</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="12">
+                <data>
+                    <string>h^2-a^2</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="13">
+                <data>
+                    <string>STICK YAW</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="14">
+                <data>
+                    <string>Stick tilt</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="15">
+                <data>
+                    <string>PID PROPORTIONAL</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="16">
+                <data>
+                    <string>PID DERIVATIVE</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="17">
+                <data>
+                    <string>PITCH - 180</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="18">
+                <data>
+                    <string>DERIVATIVE</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="200">
+                <data>
+                    <string>Tether Multiplier</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="201">
+                <data>
+                    <string>Voltage Conversion</string>
+                </data>
+            </str-tunarray-element>
+        </map>
+    </data>
+</entry-mstep>

@@ -1,0 +1,31 @@
+<entry-xpccan>
+    <id>87</id>
+    <filename>xpccan.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <str-tunarray-element>
+            <producer>6</producer>
+            <consumer>2</consumer>
+            <group>0</group>
+        </str-tunarray-element>
+        <str-tunarray-element>
+            <producer>7</producer>
+            <consumer>3</consumer>
+            <group>0</group>
+        </str-tunarray-element>
+        <str-tunarray-element>
+            <producer>2</producer>
+            <consumer>6</consumer>
+            <group>1</group>
+        </str-tunarray-element>
+        <str-tunarray-element>
+            <producer>3</producer>
+            <consumer>7</consumer>
+            <group>1</group>
+        </str-tunarray-element>
+    </data>
+</entry-xpccan>

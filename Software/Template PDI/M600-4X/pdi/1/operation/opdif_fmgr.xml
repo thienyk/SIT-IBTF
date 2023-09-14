@@ -1,0 +1,79 @@
+<entry-fmgr>
+    <id>79</id>
+    <filename>fmgr.bin</filename>
+    <data>
+        <genericOp>
+            <str-tunarray-element str-tunarray-key="0">
+                <data>
+                    <wrt-choice>
+                        <wrt-choice-abs>
+                            <wrt>65535</wrt>
+                            <pos>
+                                <x>500939502</x>
+                                <y>-4996448</y>
+                                <z>393464590</z>
+                            </pos>
+                        </wrt-choice-abs>
+                    </wrt-choice>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="1">
+                <data>
+                    <wrt-choice>
+                        <wrt-choice-abs>
+                            <wrt>65535</wrt>
+                            <pos>
+                                <x>500940506</x>
+                                <y>-4996282</y>
+                                <z>393463322</z>
+                            </pos>
+                        </wrt-choice-abs>
+                    </wrt-choice>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="2">
+                <data>
+                    <wrt-choice>
+                        <wrt-choice-abs>
+                            <wrt>65535</wrt>
+                            <pos>
+                                <x>500940588</x>
+                                <y>-4998275</y>
+                                <z>393463190</z>
+                            </pos>
+                        </wrt-choice-abs>
+                    </wrt-choice>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="3">
+                <data>
+                    <wrt-choice>
+                        <wrt-choice-abs>
+                            <wrt>65535</wrt>
+                            <pos>
+                                <x>500939601</x>
+                                <y>-4998359</y>
+                                <z>393464438</z>
+                            </pos>
+                        </wrt-choice-abs>
+                    </wrt-choice>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="4">
+                <data>
+                    <wrt-choice>
+                        <wrt-choice-abs>
+                            <wrt>65535</wrt>
+                            <pos>
+                                <x>500937225</x>
+                                <y>-4995943</y>
+                                <z>393465542</z>
+                            </pos>
+                        </wrt-choice-abs>
+                    </wrt-choice>
+                </data>
+            </str-tunarray-element>
+        </genericOp>
+        <specifiedOp/>
+    </data>
+</entry-fmgr>

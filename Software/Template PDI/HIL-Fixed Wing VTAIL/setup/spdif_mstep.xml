@@ -1,0 +1,88 @@
+<entry-mstep>
+    <id>143</id>
+    <filename>mstep.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <map>
+            <str-tunarray-element str-tunarray-key="0">
+                <data>
+                    <string>Flight time</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="1">
+                <data>
+                    <string>MSL + 10</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="2">
+                <data>
+                    <string>MSL -10</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="3">
+                <data>
+                    <string>Altitude Up</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="4">
+                <data>
+                    <string>Altitude Down</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="5">
+                <data>
+                    <string>Reset Flight Time</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="6">
+                <data>
+                    <string>Gimbal Yaw Bound</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="7">
+                <data>
+                    <string>OldJoint2</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="8">
+                <data>
+                    <string>Gimbal Pitch Bound</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="9">
+                <data>
+                    <string>OldJoint1</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="10">
+                <data>
+                    <string>Cos(Gimbal Yaw)</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="11">
+                <data>
+                    <string>Gimbal Pitch rate correction</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="12">
+                <data>
+                    <string>Gimbal Yaw Radian</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="200">
+                <data>
+                    <string>Tether Multiplier</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="201">
+                <data>
+                    <string>Voltage Conversion</string>
+                </data>
+            </str-tunarray-element>
+        </map>
+    </data>
+</entry-mstep>

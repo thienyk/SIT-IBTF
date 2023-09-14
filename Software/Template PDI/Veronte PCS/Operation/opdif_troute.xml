@@ -1,0 +1,19 @@
+<entry-troute>
+    <id>67</id>
+    <filename>troute.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <first>65535</first>
+        <points/>
+        <lines/>
+        <orthodromes/>
+        <arcs/>
+        <ellipses/>
+        <roses/>
+        <patches/>
+    </data>
+</entry-troute>

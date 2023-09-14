@@ -1,0 +1,337 @@
+<entry-maction>
+    <id>130</id>
+    <filename>maction.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <map>
+            <str-tunarray-element str-tunarray-key="0">
+                <data>
+                    <name>
+                        <name>SBY</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="1">
+                <data>
+                    <name>
+                        <name>Manual</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="2">
+                <data>
+                    <name>
+                        <name>CMB</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="4">
+                <data>
+                    <name>
+                        <name>LND</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="5">
+                <data>
+                    <name>
+                        <name>CRU</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="6">
+                <data>
+                    <name>
+                        <name>TKO</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="7">
+                <data>
+                    <name>
+                        <name>Enable IN</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="8">
+                <data>
+                    <name>
+                        <name>LND</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="9">
+                <data>
+                    <name>
+                        <name>AUTO</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="10">
+                <data>
+                    <name>
+                        <name>HLD</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="11">
+                <data>
+                    <name>
+                        <name>Update</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="12">
+                <data>
+                    <name>
+                        <name>Trim Arcade</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="14">
+                <data>
+                    <name>
+                        <name>FLARE phase</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="16">
+                <data>
+                    <name>
+                        <name>Arcade Mode</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="18">
+                <data>
+                    <name>
+                        <name>Brakes On</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="19">
+                <data>
+                    <name>
+                        <name>Brakes Off</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="20">
+                <data>
+                    <name>
+                        <name>Update time reference</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="21">
+                <data>
+                    <name>
+                        <name>Trim Roll</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="23">
+                <data>
+                    <name>
+                        <name>Trim IAS</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="24">
+                <data>
+                    <name>
+                        <name>Trim Pitch</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="25">
+                <data>
+                    <name>
+                        <name>HLD Phase</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="43">
+                <data>
+                    <name>
+                        <name>Get MSL</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="44">
+                <data>
+                    <name>
+                        <name>ALT Phase</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="45">
+                <data>
+                    <name>
+                        <name>Operation</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="46">
+                <data>
+                    <name>
+                        <name>Update</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="47">
+                <data>
+                    <name>
+                        <name>Refresh</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="48">
+                <data>
+                    <name>
+                        <name>Operation</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+        </map>
+    </data>
+</entry-maction>

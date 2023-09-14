@@ -1,0 +1,11 @@
+<entry-satmgr>
+    <id>119</id>
+    <filename>satmgr.bin</filename>
+    <data>
+        <satmgr-type-choice>
+            <no-vector>
+                <type>0</type>
+            </no-vector>
+        </satmgr-type-choice>
+    </data>
+</entry-satmgr>

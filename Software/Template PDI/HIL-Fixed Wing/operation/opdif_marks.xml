@@ -1,0 +1,27 @@
+<entry-rmark>
+    <id>71</id>
+    <filename>marks.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <str-tunarray-element str-tunarray-key="0">
+            <data>
+                <t>0</t>
+                <psid>2</psid>
+                <id>2</id>
+                <s>80.84965</s>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="1">
+            <data>
+                <t>0</t>
+                <psid>2</psid>
+                <id>7</id>
+                <s>337.75104</s>
+            </data>
+        </str-tunarray-element>
+    </data>
+</entry-rmark>

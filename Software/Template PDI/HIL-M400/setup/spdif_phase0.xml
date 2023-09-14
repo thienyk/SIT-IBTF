@@ -1,0 +1,77 @@
+<entry-phase0>
+    <id>154</id>
+    <filename>phase0.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <enabled-choice>
+            <enabled-choice-1>
+                <enabled>1</enabled>
+                <gcfg-str>
+                    <gcfg>
+                        <arc/>
+                        <maneuvers>
+                            <str-tunarray-element>
+                                <hold>
+                                    <str-tunarray-key>0</str-tunarray-key>
+                                    <data/>
+                                </hold>
+                            </str-tunarray-element>
+                        </maneuvers>
+                    </gcfg>
+                </gcfg-str>
+                <ccfg-str>
+                    <ccfg>
+                        <str-tunarray-element str-tunarray-key="0">
+                            <data>
+                                <decimator>0.0</decimator>
+                                <state>
+                                    <state-off>
+                                        <state>0</state>
+                                        <uf>0.0</uf>
+                                    </state-off>
+                                </state>
+                            </data>
+                        </str-tunarray-element>
+                        <str-tunarray-element str-tunarray-key="1">
+                            <data>
+                                <decimator>0.0</decimator>
+                                <state>
+                                    <state-off>
+                                        <state>0</state>
+                                        <uf>0.0</uf>
+                                    </state-off>
+                                </state>
+                            </data>
+                        </str-tunarray-element>
+                        <str-tunarray-element str-tunarray-key="2">
+                            <data>
+                                <decimator>0.0</decimator>
+                                <state>
+                                    <state-off>
+                                        <state>0</state>
+                                        <uf>0.0</uf>
+                                    </state-off>
+                                </state>
+                            </data>
+                        </str-tunarray-element>
+                        <str-tunarray-element str-tunarray-key="3">
+                            <data>
+                                <decimator>0.0</decimator>
+                                <state>
+                                    <state-off>
+                                        <state>0</state>
+                                        <uf>0.0</uf>
+                                    </state-off>
+                                </state>
+                            </data>
+                        </str-tunarray-element>
+                    </ccfg>
+                </ccfg-str>
+            </enabled-choice-1>
+        </enabled-choice>
+    </data>
+</entry-phase0>

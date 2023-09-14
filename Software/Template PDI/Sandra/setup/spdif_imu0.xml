@@ -1,0 +1,20 @@
+<entry-imu0>
+    <id>102</id>
+    <filename>imu0.bin</filename>
+    <data>
+        <accelEnabled>1</accelEnabled>
+        <accelRange>12</accelRange>
+        <accelSampleRate>160</accelSampleRate>
+        <accelbw>3</accelbw>
+        <enOutDr>1</enOutDr>
+        <linear_lpf2>96</linear_lpf2>
+        <gyroEnabled>1</gyroEnabled>
+        <gyroRange>4</gyroRange>
+        <gyroSampleRate>128</gyroSampleRate>
+        <gyroHpfEn>0</gyroHpfEn>
+        <gyroHpf>0</gyroHpf>
+        <temp_enabled>1</temp_enabled>
+        <accel_max_nv_samples>30</accel_max_nv_samples>
+        <gyro_max_nv_samples>40</gyro_max_nv_samples>
+    </data>
+</entry-imu0>

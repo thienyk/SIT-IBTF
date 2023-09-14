@@ -1,0 +1,19 @@
+<entry-chklist>
+    <id>92</id>
+    <filename>chklist.bin</filename>
+    <data>
+        <str-tunarray-element str-tunarray-key="0">
+            <data>
+                <other>
+                    <size>16</size>
+                    <task>7</task>
+                    <name>Atmosphere</name>
+                    <phase>3</phase>
+                    <obliged>0</obliged>
+                    <showonlyfirst>0</showonlyfirst>
+                    <params/>
+                </other>
+            </data>
+        </str-tunarray-element>
+    </data>
+</entry-chklist>

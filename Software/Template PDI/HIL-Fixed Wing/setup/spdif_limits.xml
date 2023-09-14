@@ -1,0 +1,131 @@
+<entry-limits>
+    <id>88</id>
+    <filename>limits.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <str-tunarray-element str-tunarray-key="0">
+            <data>
+                <variable>905</variable>
+                <type>0</type>
+                <value>
+                    <vref-kval>
+                        <type>65534</type>
+                        <kval>0.7</kval>
+                    </vref-kval>
+                </value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="1">
+            <data>
+                <variable>905</variable>
+                <type>1</type>
+                <value>
+                    <vref-kval>
+                        <type>65534</type>
+                        <kval>0.3</kval>
+                    </vref-kval>
+                </value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="2">
+            <data>
+                <variable>400</variable>
+                <type>1</type>
+                <value>
+                    <vref-kval>
+                        <type>65534</type>
+                        <kval>21.0</kval>
+                    </vref-kval>
+                </value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="14">
+            <data>
+                <variable>504</variable>
+                <type>0</type>
+                <value>
+                    <vref-kval>
+                        <type>65534</type>
+                        <kval>100.0</kval>
+                    </vref-kval>
+                </value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="15">
+            <data>
+                <variable>0</variable>
+                <type>0</type>
+                <value>
+                    <vref-kval>
+                        <type>65534</type>
+                        <kval>16.0</kval>
+                    </vref-kval>
+                </value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="16">
+            <data>
+                <variable>504</variable>
+                <type>1</type>
+                <value>
+                    <vref-kval>
+                        <type>65534</type>
+                        <kval>5.0</kval>
+                    </vref-kval>
+                </value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="22">
+            <data>
+                <variable>3100</variable>
+                <type>0</type>
+                <value>
+                    <vref-kval>
+                        <type>65534</type>
+                        <kval>1000.0</kval>
+                    </vref-kval>
+                </value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="23">
+            <data>
+                <variable>0</variable>
+                <type>1</type>
+                <value>
+                    <vref-kval>
+                        <type>65534</type>
+                        <kval>1.0</kval>
+                    </vref-kval>
+                </value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="24">
+            <data>
+                <variable>905</variable>
+                <type>1</type>
+                <value>
+                    <vref-kval>
+                        <type>65534</type>
+                        <kval>0.7</kval>
+                    </vref-kval>
+                </value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="25">
+            <data>
+                <variable>905</variable>
+                <type>0</type>
+                <value>
+                    <vref-kval>
+                        <type>65534</type>
+                        <kval>0.3</kval>
+                    </vref-kval>
+                </value>
+            </data>
+        </str-tunarray-element>
+    </data>
+</entry-limits>

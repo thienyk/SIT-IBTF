@@ -1,0 +1,16 @@
+<entry-phase3>
+    <id>157</id>
+    <filename>phase3.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <enabled-choice>
+            <enabled-choice-0>
+                <enabled>0</enabled>
+            </enabled-choice-0>
+        </enabled-choice>
+    </data>
+</entry-phase3>

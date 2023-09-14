@@ -1,0 +1,107 @@
+<entry-fmgr>
+    <id>79</id>
+    <filename>fmgr.bin</filename>
+    <data>
+        <genericOp>
+            <str-tunarray-element str-tunarray-key="0">
+                <data>
+                    <wrt-choice>
+                        <wrt-choice-abs>
+                            <wrt>65535</wrt>
+                            <pos>
+                                <x>501223803</x>
+                                <y>-5101408</y>
+                                <z>393119903</z>
+                            </pos>
+                        </wrt-choice-abs>
+                    </wrt-choice>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="1">
+                <data>
+                    <wrt-choice>
+                        <wrt-choice-abs>
+                            <wrt>65535</wrt>
+                            <pos>
+                                <x>501233717</x>
+                                <y>-5106670</y>
+                                <z>393106955</z>
+                            </pos>
+                        </wrt-choice-abs>
+                    </wrt-choice>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="2">
+                <data>
+                    <wrt-choice>
+                        <wrt-choice-abs>
+                            <wrt>65535</wrt>
+                            <pos>
+                                <x>501233215</x>
+                                <y>-5038141</y>
+                                <z>393103789</z>
+                            </pos>
+                        </wrt-choice-abs>
+                    </wrt-choice>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="3">
+                <data>
+                    <wrt-choice>
+                        <wrt-choice-abs>
+                            <wrt>65535</wrt>
+                            <pos>
+                                <x>501245155</x>
+                                <y>-4975369</y>
+                                <z>393087846</z>
+                            </pos>
+                        </wrt-choice-abs>
+                    </wrt-choice>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="4">
+                <data>
+                    <wrt-choice>
+                        <wrt-choice-abs>
+                            <wrt>65535</wrt>
+                            <pos>
+                                <x>501289220</x>
+                                <y>-5015987</y>
+                                <z>393035385</z>
+                            </pos>
+                        </wrt-choice-abs>
+                    </wrt-choice>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="5">
+                <data>
+                    <wrt-choice>
+                        <wrt-choice-abs>
+                            <wrt>65535</wrt>
+                            <pos>
+                                <x>501252623</x>
+                                <y>-4978706</y>
+                                <z>393078505</z>
+                            </pos>
+                        </wrt-choice-abs>
+                    </wrt-choice>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="6">
+                <data>
+                    <wrt-choice>
+                        <wrt-choice-abs>
+                            <wrt>65535</wrt>
+                            <pos>
+                                <x>501253118</x>
+                                <y>-4985646</y>
+                                <z>393077791</z>
+                            </pos>
+                        </wrt-choice-abs>
+                    </wrt-choice>
+                </data>
+            </str-tunarray-element>
+        </genericOp>
+        <specifiedOp/>
+    </data>
+</entry-fmgr>

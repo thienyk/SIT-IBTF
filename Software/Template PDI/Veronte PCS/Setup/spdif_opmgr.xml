@@ -1,0 +1,34 @@
+<entry-opmgr>
+    <id>81</id>
+    <filename>opmgr.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>28</minor>
+        <revision>46</revision>
+    </version>
+    <data>
+        <str-tunarray-element str-tunarray-key="0">
+            <data>
+                <opt_any_other>
+                    <type>8</type>
+                    <opin>
+                        <str-tunarray-element>
+                            <data-elem-vref>
+                                <vref-var>
+                                    <type>0</type>
+                                    <id>1451</id>
+                                </vref-var>
+                            </data-elem-vref>
+                        </str-tunarray-element>
+                    </opin>
+                    <opout>
+                        <vref-var>
+                            <type>0</type>
+                            <id>3100</id>
+                        </vref-var>
+                    </opout>
+                </opt_any_other>
+            </data>
+        </str-tunarray-element>
+    </data>
+</entry-opmgr>

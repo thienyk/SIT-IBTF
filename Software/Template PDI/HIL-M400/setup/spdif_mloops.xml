@@ -1,0 +1,53 @@
+<entry-mloops>
+    <id>131</id>
+    <filename>mloops.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <str-tunarray-element str-tunarray-key="0">
+            <data>
+                <name>
+                    <name>Pitching</name>
+                </name>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="1">
+            <data>
+                <name>
+                    <name>Thrusting</name>
+                </name>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="2">
+            <data>
+                <name>
+                    <name>Rolling</name>
+                </name>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="3">
+            <data>
+                <name>
+                    <name>Yawing</name>
+                </name>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="4">
+            <data>
+                <name>
+                    <name>Gimbal Roll</name>
+                </name>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="5">
+            <data>
+                <name>
+                    <name>Gimbal Tilt</name>
+                </name>
+            </data>
+        </str-tunarray-element>
+    </data>
+</entry-mloops>

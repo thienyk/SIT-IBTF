@@ -1,0 +1,21 @@
+<entry-altmeter>
+    <id>6</id>
+    <filename>altmeter.bin</filename>
+    <data>
+        <enabled>0</enabled>
+        <type>1</type>
+        <eh2>0.0</eh2>
+        <var-agl>1100</var-agl>
+        <min_dt>0.1</min_dt>
+        <rGL>
+            <x>0.0</x>
+            <y>0.0</y>
+            <z>0.0</z>
+        </rGL>
+        <limit-agl-enabled>0</limit-agl-enabled>
+        <limit-agl-min>0.0</limit-agl-min>
+        <limit-agl-max>0.0</limit-agl-max>
+        <limit-tilt-enabled>0</limit-tilt-enabled>
+        <limit-tilt-max>0.0</limit-tilt-max>
+    </data>
+</entry-altmeter>

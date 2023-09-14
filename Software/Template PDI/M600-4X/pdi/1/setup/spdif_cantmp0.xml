@@ -1,0 +1,8 @@
+<entry-cantm-p0>
+    <id>36</id>
+    <filename>cantmp0.bin</filename>
+    <data>
+        <data-fcan-producer-tx-ini/>
+        <data-fcan-producer-tx/>
+    </data>
+</entry-cantm-p0>

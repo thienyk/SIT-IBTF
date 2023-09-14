@@ -1,0 +1,139 @@
+<entry-limits>
+    <id>88</id>
+    <filename>limits.bin</filename>
+    <data>
+        <str-tunarray-element str-tunarray-key="0">
+            <data>
+                <variable>907</variable>
+                <type>0</type>
+                <value>0.7</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="1">
+            <data>
+                <variable>907</variable>
+                <type>1</type>
+                <value>0.2</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="2">
+            <data>
+                <variable>400</variable>
+                <type>1</type>
+                <value>21.0</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="3">
+            <data>
+                <variable>904</variable>
+                <type>0</type>
+                <value>0.7</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="4">
+            <data>
+                <variable>904</variable>
+                <type>1</type>
+                <value>-0.1</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="5">
+            <data>
+                <variable>904</variable>
+                <type>0</type>
+                <value>-1.0</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="6">
+            <data>
+                <variable>904</variable>
+                <type>1</type>
+                <value>0.3</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="7">
+            <data>
+                <variable>1708</variable>
+                <type>1</type>
+                <value>0.5</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="8">
+            <data>
+                <variable>900</variable>
+                <type>0</type>
+                <value>0.7</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="9">
+            <data>
+                <variable>1708</variable>
+                <type>0</type>
+                <value>0.8</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="10">
+            <data>
+                <variable>901</variable>
+                <type>1</type>
+                <value>0.25</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="11">
+            <data>
+                <variable>902</variable>
+                <type>1</type>
+                <value>0.25</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="12">
+            <data>
+                <variable>903</variable>
+                <type>1</type>
+                <value>0.25</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="13">
+            <data>
+                <variable>902</variable>
+                <type>0</type>
+                <value>0.3</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="14">
+            <data>
+                <variable>504</variable>
+                <type>1</type>
+                <value>30.0</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="15">
+            <data>
+                <variable>0</variable>
+                <type>0</type>
+                <value>17.0</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="16">
+            <data>
+                <variable>2000</variable>
+                <type>1</type>
+                <value>0.8</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="17">
+            <data>
+                <variable>2001</variable>
+                <type>1</type>
+                <value>0.8</value>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="19">
+            <data>
+                <variable>504</variable>
+                <type>0</type>
+                <value>60.0</value>
+            </data>
+        </str-tunarray-element>
+    </data>
+</entry-limits>

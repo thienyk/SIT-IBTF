@@ -1,0 +1,11 @@
+<entry-gpscompass>
+    <id>115</id>
+    <filename>gpsatt.bin</filename>
+    <data>
+        <gpscps-mask>1</gpscps-mask>
+        <gpscps-type>1</gpscps-type>
+        <gpscps-irover>0</gpscps-irover>
+        <gpscps-ibase>1</gpscps-ibase>
+        <gpscps-rposerr>-1.0</gpscps-rposerr>
+    </data>
+</entry-gpscompass>

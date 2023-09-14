@@ -1,0 +1,28 @@
+<entry-fmgr>
+    <id>79</id>
+    <filename>fmgr.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <genericOp>
+            <str-tunarray-element str-tunarray-key="0">
+                <data>
+                    <wrt-choice>
+                        <wrt-choice-rel>
+                            <wrt>8192</wrt>
+                            <rn>
+                                <x>-15.859724</x>
+                                <y>9.583123</y>
+                                <z>1.9673835</z>
+                            </rn>
+                        </wrt-choice-rel>
+                    </wrt-choice>
+                </data>
+            </str-tunarray-element>
+        </genericOp>
+        <specifiedOp/>
+    </data>
+</entry-fmgr>

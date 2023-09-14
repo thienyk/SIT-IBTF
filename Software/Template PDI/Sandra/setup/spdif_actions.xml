@@ -1,0 +1,153 @@
+<entry-actions>
+    <id>83</id>
+    <filename>actions.bin</filename>
+    <data>
+        <action-array>
+            <str-tunarray-element str-tunarray-key="0">
+                <data>
+                    <acset>
+                        <type>0</type>
+                        <idCfg>222</idCfg>
+                        <str>
+                            <str-tunarray-element>3</str-tunarray-element>
+                        </str>
+                    </acset>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="1">
+                <data>
+                    <acset>
+                        <type>0</type>
+                        <idCfg>220</idCfg>
+                        <str>
+                            <str-tunarray-element>3</str-tunarray-element>
+                        </str>
+                    </acset>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="2">
+                <data>
+                    <acset>
+                        <type>0</type>
+                        <idCfg>222</idCfg>
+                        <str>
+                            <str-tunarray-element>1</str-tunarray-element>
+                        </str>
+                    </acset>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="3">
+                <data>
+                    <acset>
+                        <type>0</type>
+                        <idCfg>222</idCfg>
+                        <str>
+                            <str-tunarray-element>2</str-tunarray-element>
+                        </str>
+                    </acset>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="4">
+                <data>
+                    <acset>
+                        <type>0</type>
+                        <idCfg>222</idCfg>
+                        <str>
+                            <str-tunarray-element>5</str-tunarray-element>
+                        </str>
+                    </acset>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="5">
+                <data>
+                    <acset>
+                        <type>0</type>
+                        <idCfg>222</idCfg>
+                        <str>
+                            <str-tunarray-element>4</str-tunarray-element>
+                        </str>
+                    </acset>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="6">
+                <data>
+                    <acset>
+                        <type>0</type>
+                        <idCfg>222</idCfg>
+                        <str>
+                            <str-tunarray-element>6</str-tunarray-element>
+                        </str>
+                    </acset>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="7">
+                <data>
+                    <acset>
+                        <type>0</type>
+                        <idCfg>215</idCfg>
+                        <str>
+                            <str-tunarray-element>1</str-tunarray-element>
+                        </str>
+                    </acset>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="8">
+                <data>
+                    <acset>
+                        <type>0</type>
+                        <idCfg>222</idCfg>
+                        <str>
+                            <str-tunarray-element>5</str-tunarray-element>
+                        </str>
+                    </acset>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="9">
+                <data>
+                    <acset>
+                        <type>0</type>
+                        <idCfg>220</idCfg>
+                        <str>
+                            <str-tunarray-element>0</str-tunarray-element>
+                        </str>
+                    </acset>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="10">
+                <data>
+                    <acset>
+                        <type>0</type>
+                        <idCfg>222</idCfg>
+                        <str>
+                            <str-tunarray-element>2</str-tunarray-element>
+                        </str>
+                    </acset>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="11">
+                <data>
+                    <acset>
+                        <type>0</type>
+                        <idCfg>211</idCfg>
+                        <str>
+                            <str-tunarray-element>1</str-tunarray-element>
+                            <str-tunarray-element>1</str-tunarray-element>
+                            <str-tunarray-element>0</str-tunarray-element>
+                        </str>
+                    </acset>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="12">
+                <data>
+                    <acset>
+                        <type>0</type>
+                        <idCfg>222</idCfg>
+                        <str>
+                            <str-tunarray-element>0</str-tunarray-element>
+                        </str>
+                    </acset>
+                </data>
+            </str-tunarray-element>
+        </action-array>
+    </data>
+</entry-actions>

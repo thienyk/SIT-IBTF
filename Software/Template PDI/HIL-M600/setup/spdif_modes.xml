@@ -1,0 +1,131 @@
+<entry-modes>
+    <id>27</id>
+    <filename>modes.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <str-tunarray-element str-tunarray-key="0">
+            <data>
+                <str-tunarray-element str-tunarray-key="0">
+                    <data>
+                        <type-choice>
+                            <type-other>
+                                <type>3</type>
+                            </type-other>
+                        </type-choice>
+                    </data>
+                </str-tunarray-element>
+                <str-tunarray-element str-tunarray-key="1">
+                    <data>
+                        <type-choice>
+                            <type-other>
+                                <type>3</type>
+                            </type-other>
+                        </type-choice>
+                    </data>
+                </str-tunarray-element>
+                <str-tunarray-element str-tunarray-key="2">
+                    <data>
+                        <type-choice>
+                            <type-other>
+                                <type>3</type>
+                            </type-other>
+                        </type-choice>
+                    </data>
+                </str-tunarray-element>
+                <str-tunarray-element str-tunarray-key="3">
+                    <data>
+                        <type-choice>
+                            <type-other>
+                                <type>3</type>
+                            </type-other>
+                        </type-choice>
+                    </data>
+                </str-tunarray-element>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="1">
+            <data>
+                <str-tunarray-element str-tunarray-key="0">
+                    <data>
+                        <type-choice>
+                            <type-other>
+                                <type>5</type>
+                            </type-other>
+                        </type-choice>
+                    </data>
+                </str-tunarray-element>
+                <str-tunarray-element str-tunarray-key="1">
+                    <data>
+                        <type-choice>
+                            <type-other>
+                                <type>5</type>
+                            </type-other>
+                        </type-choice>
+                    </data>
+                </str-tunarray-element>
+                <str-tunarray-element str-tunarray-key="2">
+                    <data>
+                        <type-choice>
+                            <type-other>
+                                <type>5</type>
+                            </type-other>
+                        </type-choice>
+                    </data>
+                </str-tunarray-element>
+                <str-tunarray-element str-tunarray-key="3">
+                    <data>
+                        <type-choice>
+                            <type-other>
+                                <type>5</type>
+                            </type-other>
+                        </type-choice>
+                    </data>
+                </str-tunarray-element>
+            </data>
+        </str-tunarray-element>
+        <str-tunarray-element str-tunarray-key="2">
+            <data>
+                <str-tunarray-element str-tunarray-key="0">
+                    <data>
+                        <type-choice>
+                            <type-other>
+                                <type>5</type>
+                            </type-other>
+                        </type-choice>
+                    </data>
+                </str-tunarray-element>
+                <str-tunarray-element str-tunarray-key="1">
+                    <data>
+                        <type-choice>
+                            <type-other>
+                                <type>0</type>
+                            </type-other>
+                        </type-choice>
+                    </data>
+                </str-tunarray-element>
+                <str-tunarray-element str-tunarray-key="2">
+                    <data>
+                        <type-choice>
+                            <type-other>
+                                <type>5</type>
+                            </type-other>
+                        </type-choice>
+                    </data>
+                </str-tunarray-element>
+                <str-tunarray-element str-tunarray-key="3">
+                    <data>
+                        <type-choice>
+                            <type-other>
+                                <type>5</type>
+                            </type-other>
+                        </type-choice>
+                    </data>
+                </str-tunarray-element>
+            </data>
+        </str-tunarray-element>
+    </data>
+</entry-modes>

@@ -1,0 +1,18 @@
+<entry-mloops>
+    <id>131</id>
+    <filename>mloops.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <str-tunarray-element str-tunarray-key="0">
+            <data>
+                <name>
+                    <name>RPM</name>
+                </name>
+            </data>
+        </str-tunarray-element>
+    </data>
+</entry-mloops>

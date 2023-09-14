@@ -1,0 +1,13 @@
+<entry-actuator>
+    <id>26</id>
+    <filename>actuator.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <su/>
+        <us/>
+    </data>
+</entry-actuator>

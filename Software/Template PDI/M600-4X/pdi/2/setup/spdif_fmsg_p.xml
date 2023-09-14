@@ -1,0 +1,26 @@
+<entry-fmsg-p>
+    <id>74</id>
+    <filename>fmsg_p.bin</filename>
+    <data>
+        <fmsg1>
+            <str-tunarray-element>
+                <fmsg-id>1</fmsg-id>
+                <time>0.1</time>
+            </str-tunarray-element>
+            <str-tunarray-element>
+                <fmsg-id>2</fmsg-id>
+                <time>-1.0</time>
+            </str-tunarray-element>
+            <str-tunarray-element>
+                <fmsg-id>3</fmsg-id>
+                <time>-1.0</time>
+            </str-tunarray-element>
+            <str-tunarray-element>
+                <fmsg-id>4</fmsg-id>
+                <time>-1.0</time>
+            </str-tunarray-element>
+        </fmsg1>
+        <fmsg2/>
+        <fmsg3/>
+    </data>
+</entry-fmsg-p>

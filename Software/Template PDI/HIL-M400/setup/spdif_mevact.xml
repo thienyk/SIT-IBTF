@@ -1,0 +1,202 @@
+<entry-mevact>
+    <id>129</id>
+    <filename>mevact.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <map>
+            <str-tunarray-element str-tunarray-key="0">
+                <data>
+                    <name>SBY Button (EIN)</name>
+                    <group>3</group>
+                    <order>0</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="1">
+                <data>
+                    <name>HLD Button</name>
+                    <group>3</group>
+                    <order>6</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="2">
+                <data>
+                    <name>TKO to HVR</name>
+                    <group>1</group>
+                    <order>1</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="3">
+                <data>
+                    <name>HVR Button</name>
+                    <group>3</group>
+                    <order>2</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="4">
+                <data>
+                    <name>LND Button</name>
+                    <group>3</group>
+                    <order>3</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="5">
+                <data>
+                    <name>CRU Button</name>
+                    <group>3</group>
+                    <order>4</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="6">
+                <data>
+                    <name>TKO Button</name>
+                    <group>3</group>
+                    <order>5</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="7">
+                <data>
+                    <name>SBY Button</name>
+                    <group>3</group>
+                    <order>1</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="8">
+                <data>
+                    <name>LinkOff to RTH</name>
+                    <group>0</group>
+                    <order>2</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="9">
+                <data>
+                    <name>HLD when No GPS</name>
+                    <group>0</group>
+                    <order>5</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="10">
+                <data>
+                    <name>Auto when No Stick</name>
+                    <group>0</group>
+                    <order>1</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="11">
+                <data>
+                    <name>Auto Mode</name>
+                    <group>2</group>
+                    <order>0</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="12">
+                <data>
+                    <name>Manual Mode (Arcade)</name>
+                    <group>2</group>
+                    <order>1</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="13">
+                <data>
+                    <name>Hold Phase (Arcade)</name>
+                    <group>2</group>
+                    <order>3</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="14">
+                <data>
+                    <name>Low Battery</name>
+                    <group>0</group>
+                    <order>4</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="15">
+                <data>
+                    <name>Arcade Trim</name>
+                    <group>2</group>
+                    <order>4</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="16">
+                <data>
+                    <name>LinkOff to SBY</name>
+                    <group>0</group>
+                    <order>3</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="17">
+                <data>
+                    <name>SBY when landed</name>
+                    <group>1</group>
+                    <order>3</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="18">
+                <data>
+                    <name>Ready Command</name>
+                    <group>2</group>
+                    <order>2</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="19">
+                <data>
+                    <name>REA to HLD (ARC)</name>
+                    <group>1</group>
+                    <order>4</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="20">
+                <data>
+                    <name>RTH Button</name>
+                    <group>3</group>
+                    <order>9</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="21">
+                <data>
+                    <name>VHLD Button</name>
+                    <group>3</group>
+                    <order>8</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="22">
+                <data>
+                    <name>RTH to Home</name>
+                    <group>1</group>
+                    <order>0</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="23">
+                <data>
+                    <name>RTH to LAND</name>
+                    <group>1</group>
+                    <order>2</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="24">
+                <data>
+                    <name>SBY to AUTO</name>
+                    <group>0</group>
+                    <order>0</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="25">
+                <data>
+                    <name>Hover HERE ( HVR phase)</name>
+                    <group>1</group>
+                    <order>5</order>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="27">
+                <data>
+                    <name>REA Button</name>
+                    <group>3</group>
+                    <order>7</order>
+                </data>
+            </str-tunarray-element>
+        </map>
+    </data>
+</entry-mevact>

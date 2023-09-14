@@ -1,0 +1,17 @@
+<entry-satmgr>
+    <id>119</id>
+    <filename>satmgr.bin</filename>
+    <data>
+        <satmgr-type-choice>
+            <has-vector>
+                <type>2</type>
+                <lambda>
+                    <str-tunarray-element>0.0</str-tunarray-element>
+                    <str-tunarray-element>1.0</str-tunarray-element>
+                    <str-tunarray-element>0.0</str-tunarray-element>
+                    <str-tunarray-element>0.0</str-tunarray-element>
+                </lambda>
+            </has-vector>
+        </satmgr-type-choice>
+    </data>
+</entry-satmgr>

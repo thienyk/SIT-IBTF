@@ -1,0 +1,8 @@
+<entry-freqmgr>
+    <id>25</id>
+    <filename>freqmgr.bin</filename>
+    <data>
+        <period_acq>0.001</period_acq>
+        <period_gnc>0.005</period_gnc>
+    </data>
+</entry-freqmgr>

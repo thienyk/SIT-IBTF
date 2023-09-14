@@ -1,0 +1,14 @@
+<entry-fmsg-c>
+    <id>75</id>
+    <filename>fmsg_c.bin</filename>
+    <data>
+        <fmsg1>
+            <str-tunarray-element>
+                <fmsg-id>0</fmsg-id>
+                <time>0.5</time>
+            </str-tunarray-element>
+        </fmsg1>
+        <fmsg2/>
+        <fmsg3/>
+    </data>
+</entry-fmsg-c>

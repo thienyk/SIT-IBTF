@@ -1,0 +1,337 @@
+<entry-maction>
+    <id>130</id>
+    <filename>maction.bin</filename>
+    <version>
+        <major>5</major>
+        <minor>38</minor>
+        <revision>21</revision>
+    </version>
+    <data>
+        <map>
+            <str-tunarray-element str-tunarray-key="0">
+                <data>
+                    <name>
+                        <name>SBY</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="1">
+                <data>
+                    <name>
+                        <name>P TRANS ON</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="2">
+                <data>
+                    <name>
+                        <name>STB(Q)</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="3">
+                <data>
+                    <name>
+                        <name>HVR-A</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="4">
+                <data>
+                    <name>
+                        <name>LND</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="5">
+                <data>
+                    <name>
+                        <name>P TRANS OFF</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="6">
+                <data>
+                    <name>
+                        <name>TKO</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="7">
+                <data>
+                    <name>
+                        <name>L TRANS ON</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="8">
+                <data>
+                    <name>
+                        <name>L TRANS OFF</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="9">
+                <data>
+                    <name>
+                        <name>AUTO</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="11">
+                <data>
+                    <name>
+                        <name>Arcade Mode</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="12">
+                <data>
+                    <name>
+                        <name>Trim Arcade</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="13">
+                <data>
+                    <name>
+                        <name>CRU</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="14">
+                <data>
+                    <name>
+                        <name>APP</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="15">
+                <data>
+                    <name>
+                        <name>CMB</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="16">
+                <data>
+                    <name>
+                        <name>Pre-TKO</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="17">
+                <data>
+                    <name>
+                        <name>Q2P</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="18">
+                <data>
+                    <name>
+                        <name>P2Q</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="19">
+                <data>
+                    <name>
+                        <name>Manual</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="20">
+                <data>
+                    <name>
+                        <name>AUTO</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="24">
+                <data>
+                    <name>
+                        <name>Select Plane Envelope</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="25">
+                <data>
+                    <name>
+                        <name>Select Quad Envelope</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="26">
+                <data>
+                    <name>
+                        <name>Select Transitions Envelope</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="27">
+                <data>
+                    <name>
+                        <name>STB(P)</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="30">
+                <data>
+                    <name>
+                        <name>Capture landing point</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="31">
+                <data>
+                    <name>
+                        <name>RTH</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="32">
+                <data>
+                    <name>
+                        <name>P-CRS</name>
+                    </name>
+                    <has-icon>
+                        <has-icon-n>
+                            <hasIcon>0</hasIcon>
+                        </has-icon-n>
+                    </has-icon>
+                </data>
+            </str-tunarray-element>
+        </map>
+    </data>
+</entry-maction>

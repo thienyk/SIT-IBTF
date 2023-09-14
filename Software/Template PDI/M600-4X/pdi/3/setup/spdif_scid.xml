@@ -1,0 +1,10 @@
+<entry-scid>
+    <id>33</id>
+    <filename>scid.bin</filename>
+    <data>
+        <baudrate>9600</baudrate>
+        <length>4</length>
+        <parity>2</parity>
+        <stop>2</stop>
+    </data>
+</entry-scid>

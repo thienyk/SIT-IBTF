@@ -1,0 +1,11 @@
+<entry-gyr1filt>
+    <id>108</id>
+    <filename>gyr1filt.bin</filename>
+    <data>
+        <b0>0.011848903</b0>
+        <b1>0.023697807</b1>
+        <b2>0.011848903</b2>
+        <a1>-1.6693337</a1>
+        <a2>0.71672934</a2>
+    </data>
+</entry-gyr1filt>

@@ -1,0 +1,28 @@
+<entry-automations-gname>
+    <id>150</id>
+    <filename>agname.bin</filename>
+    <data>
+        <map>
+            <str-tunarray-element str-tunarray-key="0">
+                <data>
+                    <string>Transitions</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="1">
+                <data>
+                    <string>Stick</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="2">
+                <data>
+                    <string>Failsafe</string>
+                </data>
+            </str-tunarray-element>
+            <str-tunarray-element str-tunarray-key="3">
+                <data>
+                    <string>Buttons</string>
+                </data>
+            </str-tunarray-element>
+        </map>
+    </data>
+</entry-automations-gname>
