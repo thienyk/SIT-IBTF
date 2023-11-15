@@ -1,1 +1,17 @@
 Motor: https://irlock.com/products/t-motor-u15l-kv43?utm_campaign=gs-2018-09-19&utm_source=google&utm_medium=smart_campaign&gad=1&gclid=CjwKCAjwu4WoBhBkEiwAojNdXsFuZPHKASLmcVWx2ABbBu1dewRivHxuQgO8y1vZ656DhrO1V4BHmRoCg7wQAvD_BwE
+
+
+UUT
+Motor: U7-V2 
+	https://store.tmotor.com/goods-319-T-Motor+U7-V20++Power+Type+UAV+Motor+280420490KV.html
+	> Max Current: 
+	20A (Assume 18 inch prop) [X]
+	28A (Assume 20 inch prop) [ ] 
+	35A (Assume 22 inch prop) [ ]
+
+ESC: Flame 80A
+	https://store.tmotor.com/goods-830-FLAME+80A+12S+V20.html
+	> Max Current: 80A
+
+
+240x130
