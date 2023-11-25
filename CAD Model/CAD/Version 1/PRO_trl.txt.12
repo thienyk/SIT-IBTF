@@ -1,0 +1,258 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdL05EditFeat.
+!%CPSelect items such as Dimensions, Sections, Trajectories, Tolerances, Surface Finish or other features for editing
+@ sel view 0
+ 2.144781 -0.710320 -0.563675 0.000000 1.447480 -1.824053
+ 0.906799 1.680064 1.333217 500.887900 420.065651 -2127.433007 2.441406 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 CIRCLE 
+0 4
+!sket_eps       1.320298422
+~ Move `main_dlg_cur` `proe_win` 9 455 275 0 1 1257 651 1920 1080 51284
+~ Move `main_dlg_cur` `proe_win` 9 455 275 0 1 1257 651 1920 1080 51291
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 455 275 0 0 1257 651 1920 1080 51294
+~ LButtonArm `main_dlg_cur` `proe_win` 9 442 301 0 1 1257 651 1920 1080 52431
+@ dim text
+~ Move `main_dlg_cur` `proe_win` 9 442 301 0 1 1257 651 1920 1080 52442
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 442 301 0 0 1257 651 1920 1080 52489
+@sel_pz_xyz 258.2805299539 453.6290322581 435.6987327189 436.7550691244 0.0000000000
+@ sel view 0
+ 2.144781 -0.710320 -0.563675 0.000000 1.447480 -1.824053
+ 0.906799 1.680064 1.333217 500.887900 420.065651 -2127.433007 2.441406 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 TEXT_DIM 
+24 3 4 2 -1 -1 -1 -1
+@ sel stop
+@ sel stop
+@ sel stop
+@ sel stop
+@ stack idx 0
+@SEL_REC 0 [ ] 21 24 -1 (0.0000000000 -1.0000000000) (0.0000000000 0.0000000000 0.0000000000)
+!d24:F15(EXTRUDE_4)
+!%CPSelect Edit Value or Properties to edit selected item(s)
+!%CPSelect items such as Dimensions, Geometry Tolerances, Reference Dimensions for editing
+!Command ProCmdPmaAnnotDim was pushed from the software.
+!LiveUI: Activating PmaToolAnnotDim
+~ LButtonArm `main_dlg_cur` `proe_win` 9 442 301 0 129 1257 651 1920 1080 52611
+~ Move `main_dlg_cur` `proe_win` 9 442 301 0 1 1257 651 1920 1080 52612
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 442 301 0 0 1257 651 1920 1080 52644
+!Command ProCmdEditValueDim was pushed from the software.
+!Embed Edit () start edit
+!%CPEnter value [16.00]
+~ Update `main_dlg_cur` `mod_partdim_emb` `30`
+~ Key `main_dlg_cur` `proe_win` 9 640 182 65536 1024 1257 651 1920 1080 54621 `Esc`
+!Embed Edit () finished edit (Not Applied)
+!Command ProCmdPmaAnnotDim was pushed from the software.
+!Command ProCmdDtlPushDimRbn was pushed from the software.
+~ Activate `main_dlg_cur` `EmInertnalComp_1`
+!%CPSelect items such as Dimensions, Sections, Datums, Features, Cosmetics for editing
+!LiveUI: Deactivating PmaToolAnnotDim
+~ LButtonArm `main_dlg_cur` `proe_win` 9 438 298 0 1 1257 651 1920 1080 55589
+@ dim text
+~ Move `main_dlg_cur` `proe_win` 9 437 298 0 513 1257 651 1920 1080 55612
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 437 298 0 0 1257 651 1920 1080 55681
+~ LButtonArm `main_dlg_cur` `proe_win` 9 437 298 0 129 1257 651 1920 1080 55751
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 437 298 0 0 1257 651 1920 1080 55827
+!Command ProCmdViewRepaint was pushed from the software.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 438 302 0 1 1257 651 1920 1080 56882
+@ dim text
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 438 302 0 0 1257 651 1920 1080 56958
+@sel_pz_xyz 253.0961981567 452.3329493088 433.5752304147 436.2241935484 0.0000000000
+@ sel view 0
+ 2.144781 -0.710320 -0.563675 0.000000 1.447480 -1.824053
+ 0.906799 1.680064 1.333217 500.887900 420.065651 -2127.433007 2.441406 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 TEXT_DIM 
+24 3 4 2 -1 -1 -1 -1
+@ sel stop
+@ sel stop
+@ sel2d 0 TEXT_DIM 
+24 3 4 2 -1 -1 -1 -1
+@ sel stop
+@ sel stop
+@ stack idx 0
+@SEL_REC 0 [ ] 21 24 -1 (0.0000000000 -1.0000000000) (0.0000000000 0.0000000000 0.0000000000)
+!d24:F15(EXTRUDE_4)
+!%CPSelect Edit Value or Properties to edit selected item(s)
+!%CPSelect items such as Dimensions, Geometry Tolerances, Reference Dimensions for editing
+!Command ProCmdPmaAnnotDim was pushed from the software.
+!Command ProCmdPmaAnnotDim was pushed from the software.
+!LiveUI: Activating PmaToolAnnotDim
+!Command ProCmdPmaAnnotDim was pushed from the software.
+!Command ProCmdDtlPushDimRbn was pushed from the software.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 438 302 0 129 1257 651 1920 1080 57075
+~ Move `main_dlg_cur` `proe_win` 9 438 302 0 1 1257 651 1920 1080 57077
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 438 302 0 0 1257 651 1920 1080 57143
+!Command ProCmdEditValueDim was pushed from the software.
+!Embed Edit () start edit
+!%CPEnter value [16.00]
+~ Update `main_dlg_cur` `mod_partdim_emb` `30`
+~ Activate `main_dlg_cur` `mod_partdim_emb`
+!%CIShowing section modification driven by new dimension values.
+!%CPDrag a vertex, entity or center, or double-click on a dimension to modify.
+!Undo: added rec_id -1 type 5100 
+!Embed Edit () finished edit (Applied)
+!New Value is 30
+!Command ProCmdPmaAnnotDim was pushed from the software.
+!Command ProCmdDtlPushDimRbn was pushed from the software.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 531 239 0 1 1257 651 1920 1080 59682
+@ dim text
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 531 239 0 0 1257 651 1920 1080 59771
+@sel_pz_xyz 373.6319124424 533.9861751152 482.9466589862 469.6693548387 0.0000000000
+@ sel view 0
+ 2.144781 -0.710320 -0.563675 0.000000 1.447480 -1.824053
+ 0.906799 1.680064 1.333217 500.887900 420.065651 -2127.433007 2.441406 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ sel2d 0 TEXT_DIM 
+25 3 4 2 -1 -1 -1 -1
+@ sel stop
+@ sel stop
+@ sel2d 0 TEXT_DIM 
+25 3 4 2 -1 -1 -1 -1
+@ sel stop
+@ sel stop
+@ stack idx 0
+@SEL_REC 0 [ ] 21 25 -1 (0.0000000000 -1.0000000000) (0.0000000000 0.0000000000 0.0000000000)
+!d25:F15(EXTRUDE_4)
+!%CPSelect Edit Value or Properties to edit selected item(s)
+!Command ProCmdPmaAnnotDim was pushed from the software.
+!Command ProCmdDtlPushDimRbn was pushed from the software.
+!Command ProCmdPmaAnnotDim was pushed from the software.
+!Command ProCmdDtlPushDimRbn was pushed from the software.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 531 239 0 129 1257 651 1920 1080 59840
+~ Move `main_dlg_cur` `proe_win` 9 531 239 0 1 1257 651 1920 1080 59840
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 531 239 0 0 1257 651 1920 1080 59936
+!Command ProCmdEditValueDim was pushed from the software.
+!Embed Edit () start edit
+!%CPEnter value [30.00]
+~ Update `main_dlg_cur` `mod_partdim_emb` `16`
+~ Activate `main_dlg_cur` `mod_partdim_emb`
+!%CIShowing section modification driven by new dimension values.
+!%CPDrag a vertex, entity or center, or double-click on a dimension to modify.
+!Undo: added rec_id -1 type 5100 
+!Embed Edit () finished edit (Applied)
+!New Value is 16
+!Command ProCmdPmaAnnotDim was pushed from the software.
+!Command ProCmdDtlPushDimRbn was pushed from the software.
+~ Move `main_dlg_cur` `proe_win` 9 530 237 33554432 0 1257 651 1920 1080 62112
+~ Key `main_dlg_cur` `proe_win` 33554432 `Ctrl`
+~ Key `main_dlg_cur` `proe_win` 9 530 224 38993939 1024 1257 651 1920 1080 62166 `Ctrl+S`
+~ Command `ProCmdModelSave` 
+!LiveUI: Deactivating PmaToolAnnotDim
+!ProgressBarDlg: Regen Started
+!%CIRegenerating 2700360TOPBASE180923 feature 15 out of 20 ...
+!%CIRestoring 2700360TOPBASE180923 feature 16 out of 20 ...
+!%CIRegenerating 2700360TOPBASE180923 feature 17 out of 20 ...
+!%CIRestoring 2700360TOPBASE180923 feature 18 out of 20 ...
+!%CIRegenerating 2700360TOPBASE180923 feature 19 out of 20 ...
+!%CIRegenerating 2700360TOPBASE180923 feature 20 out of 20 ...
+!%CI2700360TOPBASE180923 regeneration completed successfully.
+!ProgressBarDlg: Regen Completed
+< 2 0.771556 1250 0 0 651 1920 0 0 1080 13
+< 2 0.771556 1257 0 0 651 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+!Command ProCmdViewRepaint was pushed from the software.
+!%CI2700360TOPBASE180923 has been saved.
+~ Enter `main_dlg_cur` `proe_win` 9 562 197 33554432 1536 1257 651 1920 1080 62397
+>M Chain_oa_sel_CB ProeWin2 562 197 100c0 20000 1257 0 0 651 1920 0 0 1080 13
+~ Move `main_dlg_cur` `proe_win` 9 562 197 0 0 1257 651 1920 1080 62398
+>M Chain_oa_sel_CB ProeWin2 562 197 c0 0 1257 0 0 651 1920 0 0 1080 13
+~ Key `main_dlg_cur` `proe_win` 9 1118 -1 38993939 1536 1257 651 1920 1080 62565 `Ctrl+S`
+~ Command `ProCmdModelSave` 
+!%CI2700360TOPBASE180923 has been saved.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+< 2 0.771556 1386 0 0 651 1920 0 0 1080 13
+< 2 0.771556 1247 0 0 651 1920 0 0 1080 13
+< 0 0.765630 1250 0 0 646 1920 0 0 1080 13
+< 0 0.765630 1257 0 0 646 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+~ LButtonArm `main_dlg_cur` `proe_win` 9 221 112 0 1 1257 646 1920 1080 65138
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 221 112 0 0 1257 646 1920 1080 65201
+@sel_pz_xyz -32.2416795666 697.4651702786 -32.2416795666 697.4651702786 0.0000000000
+@ sel view 0
+ 1.377654 -0.456259 -0.362065 0.000000 0.929758 -1.171642
+ 0.582463 1.079154 0.856364 762.989347 133.787101 -1678.390103 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Activate `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh397369119.proe_win|.mcs29658718_mp|select_a\
+ll_check` 0
+!%CIAxes will not be displayed.
+!%CIDatum points will not be displayed.
+!%CICoordinate Systems will not be displayed.
+!%CIDatum planes will not be displayed.
+~ Move `main_dlg_cur` `proe_win` 9 939 120 16777216 1536 1257 646 1920 1080 67754
+>M Chain_oa_sel_CB ProeWin0 939 120 c0 10000 1257 0 0 646 1920 0 0 1080 13
+>M Collectors_CB ProeWin0 939 120 c0 10000 1257 0 0 646 1920 0 0 1080 13
+~ Move `main_dlg_cur` `proe_win` 9 462 119 0 0 1257 646 1920 1080 67927
+>M Chain_oa_sel_CB ProeWin0 462 119 c0 0 1257 0 0 646 1920 0 0 1080 13
+>M Collectors_CB ProeWin0 462 119 c0 0 1257 0 0 646 1920 0 0 1080 13
+~ LButtonArm `main_dlg_cur` `proe_win` 9 247 163 0 1 1257 646 1920 1080 75803
+~ Move `main_dlg_cur` `proe_win` 9 247 162 0 1025 1257 646 1920 1080 75806
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 247 162 0 0 1257 646 1920 1080 75853
+@sel_pz_xyz 1.7172987616 630.8533281734 1.7172987616 630.8533281734 0.0000000000
+@ sel view 0
+ 1.377654 -0.456259 -0.362065 0.000000 0.929758 -1.171642
+ 0.582463 1.079154 0.856364 762.989347 133.787101 -1678.390103 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSave` 
+!%CITESTPANELASSEMBLY180923 has been saved.
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Close `UI Message Dialog` `UI Message Dialog`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 966 128 0 1 1257 646 1920 1080 101596
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 966 128 0 0 1257 646 1920 1080 101671
+@sel_pz_xyz 940.8136609907 676.5673374613 940.8136609907 676.5673374613 0.0000000000
+@ sel view 0
+ 1.377654 -0.456259 -0.362065 0.000000 0.929758 -1.171642
+ 0.582463 1.079154 0.856364 762.989347 133.787101 -1678.390103 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Move `main_dlg_cur` `proe_win` 9 966 128 33554432 0 1257 646 1920 1080 101985
+>M Chain_oa_sel_CB ProeWin0 966 128 c0 20000 1257 0 0 646 1920 0 0 1080 13
+~ Key `main_dlg_cur` `proe_win` 9 966 128 38993939 0 1257 646 1920 1080 101985 `Ctrl+S`
+~ Command `ProCmdModelSave` 
+!%CITESTPANELASSEMBLY180923 has been saved.
+~ Move `main_dlg_cur` `proe_win` 9 966 128 0 0 1257 646 1920 1080 102278
+>M Chain_oa_sel_CB ProeWin0 966 128 c0 0 1257 0 0 646 1920 0 0 1080 13
+~ LButtonArm `main_dlg_cur` `proe_win` 9 85 261 0 1 1257 646 1920 1080 199371
+~ Move `main_dlg_cur` `proe_win` 9 85 260 0 1025 1257 646 1920 1080 199375
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 85 260 0 0 1257 646 1920 1080 199409
+@sel_pz_xyz -209.8732585139 502.8541021672 -209.8732585139 502.8541021672 0.0000000000
+@ sel view 0
+ 1.377654 -0.456259 -0.362065 0.000000 0.929758 -1.171642
+ 0.582463 1.079154 0.856364 762.989347 133.787101 -1678.390103 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Move `main_dlg_cur` `proe_win` 9 172 285 33554432 0 1257 646 1920 1080 199772
+>M Chain_oa_sel_CB ProeWin0 172 285 c0 20000 1257 0 0 646 1920 0 0 1080 13
+~ Key `main_dlg_cur` `proe_win` 9 174 285 38993939 512 1257 646 1920 1080 199842 `Ctrl+S`
+~ Command `ProCmdModelSave` 
+!%CITESTPANELASSEMBLY180923 has been saved.
+~ Move `main_dlg_cur` `proe_win` 9 194 283 0 1536 1257 646 1920 1080 199967
+>M Chain_oa_sel_CB ProeWin0 194 283 c0 0 1257 0 0 646 1920 0 0 1080 13
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
