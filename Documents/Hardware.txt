@@ -5,13 +5,33 @@ UUT
 Motor: U7-V2 
 	https://store.tmotor.com/goods-319-T-Motor+U7-V20++Power+Type+UAV+Motor+280420490KV.html
 	> Max Current: 
-	20A (Assume 18 inch prop) [X]
-	28A (Assume 20 inch prop) [ ] 
-	35A (Assume 22 inch prop) [ ]
+	0.8A (No Load)             [X]
+	20 A (Assume 18 inch prop) [ ]
+	28 A (Assume 20 inch prop) [ ] 
+	35 A (Assume 22 inch prop) [ ]
 
 ESC: Flame 80A
 	https://store.tmotor.com/goods-830-FLAME+80A+12S+V20.html
 	> Max Current: 80A
 
 
-240x130
+Power Distribution Module: (Budget $200)
+- Space Constraint: 240x130 mm
+- 4 Outputs (XT-90 F): 5V 9V 12V 24V
+
+Assume 1A per motor, Hex rotor 6A total
+Power needed = 24V * 6 = 144
+
+Signal Chain:(use 12AWG)
+Power Outlet -> AC/DC Conv 24V (144W) -> 3 Buck Converters (5,9,12V) + 1 bypass output -> 4 XT-90
+
+Power Supply:
+Aim for 200 W
+LRS-200-24
+https://www.meanwell.com/webapp/product/search.aspx?prod=LRS-200
+
+Buck Converter Options:
+https://www.youtube.com/watch?v=KKdVIneTLUw 
+https://www.amazon.sg/DIANN-Converter-Adjustable-1-2-36V-Regulator/dp/B0BLXN7KR2
+
+*Might need M3.5 lugs

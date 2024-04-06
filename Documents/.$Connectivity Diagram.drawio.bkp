@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-02-27T14:24:36.811Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="x7cDrK0c55-OK83zdi9k" version="22.0.3" type="device">
+<mxfile host="Electron" modified="2024-02-27T14:23:10.896Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="Y5KvAsikH5IwloGos8ai" version="22.0.3" type="device">
   <diagram name="Page-1" id="v3630Nla2A9BtoAjLwwb">
-    <mxGraphModel dx="1363" dy="1039" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2120" dy="1616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,9 +221,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZbORfe6K_xHkkBf2J9BB-150" value="Sensors and Peripherals" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZbORfe6K_xHkkBf2J9BB-82" vertex="1">
-          <mxGeometry x="22.5" y="440" width="435" height="90" as="geometry">
-            <mxRectangle x="22.5" y="440" width="176" height="26" as="alternateBounds" />
-          </mxGeometry>
+          <mxGeometry x="22.5" y="440" width="435" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZbORfe6K_xHkkBf2J9BB-156" value="Dataink" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="ZbORfe6K_xHkkBf2J9BB-82" vertex="1">
           <mxGeometry x="25" y="310" width="435" height="120" as="geometry" />
