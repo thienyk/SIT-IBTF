@@ -1,0 +1,157 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdEditRedefFeat.
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off, Mini Dashboard style off. Feature title : Component Placement
+!ODUI session started.
+!%CPSelect any reference for auto type constraining.
+~ Activate `main_dlg_cur` `dashInst0.stdbtn_2`
+!ODUI session finished.
+~ RButtonArm `main_dlg_cur` `proe_win` 9 850 191 0 1028 1686 832 1920 1080 192420
+~ RButtonDisarm `main_dlg_cur` `proe_win` 9 850 191 0 0 1686 832 1920 1080 192499
+@ sel_rmb_cmds 1
+!Popup menu item (ProSelNextPopup) was activated
+~ RButtonArm `main_dlg_cur` `proe_win` 9 872 198 0 516 1686 832 1920 1080 193057
+~ RButtonDisarm `main_dlg_cur` `proe_win` 9 872 198 0 0 1686 832 1920 1080 193127
+@ sel_rmb_cmds 1
+!Popup menu item (ProSelNextPopup) was activated
+~ LButtonArm `main_dlg_cur` `proe_win` 9 846 226 0 513 1686 832 1920 1080 193687
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 846 226 0 0 1686 832 1920 1080 193790
+@sel_pz_xyz 503.0423677885 614.5582932692 1041.5414663462 826.5099158654 -0.0000000000
+@ sel view 0
+ 0.817971 -0.037986 -1.461514 -0.535074 1.550740 -0.339772
+ 1.360574 0.632697 0.745033 1071.475708 420.276523 -2324.511029 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 382] 2 48 -1 (-52.7689674229 15.9398899629) (-52.7689674229 1.0000000000 -15.9398899629)
+!Surf:F5(EXTRUDE_1):95I12IACRYLIC
+~ LButtonArm `main_dlg_cur` `proe_win` 9 846 226 0 129 1686 832 1920 1080 193886
+~ Move `main_dlg_cur` `proe_win` 9 846 226 0 1 1686 832 1920 1080 193887
+~ Move `main_dlg_cur` `proe_win` 9 846 226 0 1 1686 832 1920 1080 193903
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 846 226 0 0 1686 832 1920 1080 193955
+~ Command `ProCmdOpenModel@PopupMenuGraphicWinStack` 
+< 2 0.832000 832 0 0 832 1920 0 0 1080 13
+< 2 1.052000 1052 0 0 1000 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1000 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1003 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1006 1920 0 0 1080 13
+< 2 1.028000 1028 0 0 1006 1920 0 0 1080 13
+< 2 0.726519 907 0 0 613 1920 0 0 1080 13
+< 2 0.992000 1765 0 0 837 1920 0 0 1080 13
+< 2 0.992000 1602 0 0 837 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 2 0.992000 1644 0 0 837 1920 0 0 1080 13
+< 2 0.992000 1637 0 0 837 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ Select `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh396938342.proe_win:casc340798662`
+~ Close `main_dlg_cur` `igToolbar_AncestorIGT_IGT_GRP_inh396938342.proe_win:casc340798662`
+~ Command `ProCmdNamedViewsGalSelect`  `TOP`
+~ Move `main_dlg_cur` `proe_win` 9 472 141 16777216 0 1637 837 1920 1080 198314
+>M Chain_oa_sel_CB ProeWin2 472 141 c0 10000 1637 0 0 837 1920 0 0 1080 13
+>M Collectors_CB ProeWin2 472 141 c0 10000 1637 0 0 837 1920 0 0 1080 13
+~ Move `main_dlg_cur` `proe_win` 9 469 135 0 0 1637 837 1920 1080 198516
+>M Chain_oa_sel_CB ProeWin2 469 135 c0 0 1637 0 0 837 1920 0 0 1080 13
+>M Collectors_CB ProeWin2 469 135 c0 0 1637 0 0 837 1920 0 0 1080 13
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+< 2 0.992000 1780 0 0 837 1920 0 0 1080 13
+< 2 0.992000 1602 0 0 837 1920 0 0 1080 13
+< 0 0.986074 1644 0 0 832 1920 0 0 1080 13
+< 0 0.986074 1637 0 0 832 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+~ Select `main_dlg_cur` `PHTLeft.AssyTree` 1 `T2 62`
+!PANELTOPROFILEADAPTERT.PRT
+~ Command `ProCmdOpenModel@PopupMenuTree` 
+< 2 0.832000 832 0 0 832 1920 0 0 1080 13
+< 2 1.052000 1052 0 0 1000 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1000 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1003 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1006 1920 0 0 1080 13
+< 2 1.028000 1028 0 0 1006 1920 0 0 1080 13
+< 2 0.726519 907 0 0 613 1920 0 0 1080 13
+< 2 0.992000 1765 0 0 837 1920 0 0 1080 13
+< 2 0.992000 1602 0 0 837 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 2 0.992000 1644 0 0 837 1920 0 0 1080 13
+< 2 0.992000 1637 0 0 837 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ Wheel `main_dlg_cur` `proe_win` 9 781 370 393216 0 1637 837 1920 1080 212896
+~ Move `main_dlg_cur` `proe_win` 9 559 170 16777216 0 1637 837 1920 1080 213432
+>M Chain_oa_sel_CB ProeWin2 559 170 c0 10000 1637 0 0 837 1920 0 0 1080 13
+>M Collectors_CB ProeWin2 559 170 c0 10000 1637 0 0 837 1920 0 0 1080 13
+~ Move `main_dlg_cur` `proe_win` 9 539 152 0 0 1637 837 1920 1080 213661
+>M Chain_oa_sel_CB ProeWin2 539 152 c0 0 1637 0 0 837 1920 0 0 1080 13
+>M Collectors_CB ProeWin2 539 152 c0 0 1637 0 0 837 1920 0 0 1080 13
+~ Move `main_dlg_cur` `proe_win` 9 527 138 33554432 0 1637 837 1920 1080 215070
+>M Chain_oa_sel_CB ProeWin2 527 138 c0 20000 1637 0 0 837 1920 0 0 1080 13
+~ Command `ProCmdViewDefault` 
+~ Move `main_dlg_cur` `proe_win` 9 527 138 0 0 1637 837 1920 1080 216539
+>M Chain_oa_sel_CB ProeWin2 527 138 c0 0 1637 0 0 837 1920 0 0 1080 13
+~ Move `main_dlg_cur` `proe_win` 9 481 126 16777216 0 1637 837 1920 1080 217481
+>M Chain_oa_sel_CB ProeWin2 481 126 c0 10000 1637 0 0 837 1920 0 0 1080 13
+>M Collectors_CB ProeWin2 481 126 c0 10000 1637 0 0 837 1920 0 0 1080 13
+~ Move `main_dlg_cur` `proe_win` 9 579 125 0 0 1637 837 1920 1080 217679
+>M Chain_oa_sel_CB ProeWin2 579 125 c0 0 1637 0 0 837 1920 0 0 1080 13
+>M Collectors_CB ProeWin2 579 125 c0 0 1637 0 0 837 1920 0 0 1080 13
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+< 2 0.992000 1780 0 0 837 1920 0 0 1080 13
+< 2 0.992000 1602 0 0 837 1920 0 0 1080 13
+< 0 0.986074 1644 0 0 832 1920 0 0 1080 13
+< 0 0.986074 1637 0 0 832 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+~ LButtonArm `main_dlg_cur` `proe_win` 9 936 618 0 1 1637 832 1920 1080 228173
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 936 618 0 0 1637 832 1920 1080 228226
+@sel_pz_xyz 619.1594050481 217.0222355769 1157.6585036058 428.9738581731 -0.0000000000
+@ sel view 0
+ 0.817971 -0.037986 -1.461514 -0.535074 1.550740 -0.339772
+ 1.360574 0.632697 0.745033 1071.475708 420.276523 -2324.511029 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [ 62] 2 48 -1 (17.7844984565 49.0406422268) (17.7844984565 1.0000000000 -49.0406422268)
+!Surf:F5(EXTRUDE_1):95I12IACRYLIC
+~ Command `ProCmdOpenModel@PopupMenuGraphicWinStack` 
+< 2 0.832000 832 0 0 832 1920 0 0 1080 13
+< 2 1.052000 1052 0 0 1000 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1000 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1003 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1006 1920 0 0 1080 13
+< 2 1.028000 1028 0 0 1006 1920 0 0 1080 13
+< 2 0.726519 907 0 0 613 1920 0 0 1080 13
+< 2 0.992000 1765 0 0 837 1920 0 0 1080 13
+< 2 0.992000 1602 0 0 837 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 2 0.992000 1644 0 0 837 1920 0 0 1080 13
+< 2 0.992000 1637 0 0 837 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ LButtonArm `main_dlg_cur` `proe_win` 9 481 72 0 1 1637 837 1920 1080 231868
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 481 72 0 0 1637 837 1920 1080 231952
+@sel_pz_xyz 159.7782258065 771.1693548387 159.7782258065 771.1693548387 0.0000000000
+@ sel view 0
+ 2.274069 0.000000 0.000000 0.000000 0.000000 -2.274069
+ 0.000000 2.274069 0.000000 500.000000 421.875000 -1833.060017 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+< 2 0.992000 1780 0 0 837 1920 0 0 1080 13
+< 2 0.992000 1602 0 0 837 1920 0 0 1080 13
+< 0 0.986074 1644 0 0 832 1920 0 0 1080 13
+< 0 0.986074 1637 0 0 832 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

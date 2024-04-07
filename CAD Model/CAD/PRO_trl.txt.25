@@ -1,0 +1,65 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdWinCloseAsyn.
+< 2 0.726519 1305 0 0 613 1920 0 0 1080 13
+< 2 0.726519 1175 0 0 613 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `240alu2020.prt`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+< 2 0.832000 832 0 0 832 1920 0 0 1080 13
+< 2 1.052000 1052 0 0 1000 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1000 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1003 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1006 1920 0 0 1080 13
+< 2 1.028000 1028 0 0 1006 1920 0 0 1080 13
+< 2 0.726519 1290 0 0 613 1920 0 0 1080 13
+< 2 0.726519 1175 0 0 613 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 2 0.726519 1169 0 0 613 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Input `file_saveas` `Inputname` `3`
+~ Input `file_saveas` `Inputname` `30`
+~ Input `file_saveas` `Inputname` `300`
+~ Input `file_saveas` `Inputname` `300A`
+~ Input `file_saveas` `Inputname` `300AL`
+~ Input `file_saveas` `Inputname` `300ALU`
+~ Input `file_saveas` `Inputname` `300ALUI`
+~ Input `file_saveas` `Inputname` `300ALUI2`
+~ Input `file_saveas` `Inputname` `300ALUI20`
+~ Input `file_saveas` `Inputname` `300ALUI2`
+~ Input `file_saveas` `Inputname` `300ALUI`
+~ Input `file_saveas` `Inputname` `300ALU`
+~ Input `file_saveas` `Inputname` `300ALU2`
+~ Input `file_saveas` `Inputname` `300ALU20`
+~ Input `file_saveas` `Inputname` `300ALU202`
+~ Input `file_saveas` `Inputname` `300ALU2020`
+~ Update `file_saveas` `Inputname` `300ALU2020`
+~ Activate `file_saveas` `Inputname`
+!%CEAn object with that name exists in session.  Choose a different name.
+~ Activate `file_saveas` `Cancel`
+!%CENo object was copied.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+< 2 0.726519 1305 0 0 613 1920 0 0 1080 13
+< 2 0.726519 1175 0 0 613 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

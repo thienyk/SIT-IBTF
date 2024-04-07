@@ -1,0 +1,19 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Message Dialog: Warning
+!               : The file paneltoprofileadapter.stl already exists, continue anyway?
+~ Activate `UI Message Dialog` `ok`
+~ Update `export_slice` `ChordHeightPanel` `0.01`
+~ Activate `export_slice` `ChordHeightPanel`
+~ FocusOut `export_slice` `ChordHeightPanel`
+~ Activate `export_slice` `Apply`
+!%CI520 triangles have been written in output file paneltoprofileadapter.stl.
+~ Activate `export_slice` `OK`
+!%CI520 triangles have been written in output file paneltoprofileadapter.stl.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

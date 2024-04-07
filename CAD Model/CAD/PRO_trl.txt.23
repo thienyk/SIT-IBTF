@@ -1,0 +1,220 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+< 0 0.725333 1305 0 0 612 1920 0 0 1080 13
+< 0 0.725333 1175 0 0 612 1920 0 0 1080 13
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `supportangle.prt`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+!24-Jan-24 06:48:50  Start C:\Users\yus19\OneDrive\SIT\Capstone\SIT-IBTFProject\CAD Model\CAD\supportangle.prt.9
+!24-Jan-24 06:48:50  End   C:\Users\yus19\OneDrive\SIT\Capstone\SIT-IBTFProject\CAD Model\CAD\supportangle.prt.9
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 0 0.725333 1169 0 0 612 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ RButtonArm `main_dlg_cur` `proe_win` 9 416 469 0 4 1169 612 1920 1080 597490
+~ Move `main_dlg_cur` `proe_win` 9 417 469 0 516 1169 612 1920 1080 597517
+~ Move `main_dlg_cur` `proe_win` 9 418 469 0 516 1169 612 1920 1080 597523
+~ Move `main_dlg_cur` `proe_win` 9 419 468 0 1540 1169 612 1920 1080 597531
+~ Move `main_dlg_cur` `proe_win` 9 420 468 0 516 1169 612 1920 1080 597536
+~ Move `main_dlg_cur` `proe_win` 9 421 468 0 516 1169 612 1920 1080 597539
+~ Move `main_dlg_cur` `proe_win` 9 422 468 0 516 1169 612 1920 1080 597541
+~ Move `main_dlg_cur` `proe_win` 9 423 468 0 516 1169 612 1920 1080 597545
+~ Move `main_dlg_cur` `proe_win` 9 424 468 0 516 1169 612 1920 1080 597547
+~ Move `main_dlg_cur` `proe_win` 9 425 468 0 516 1169 612 1920 1080 597550
+~ Move `main_dlg_cur` `proe_win` 9 427 468 0 516 1169 612 1920 1080 597555
+~ Move `main_dlg_cur` `proe_win` 9 429 468 0 516 1169 612 1920 1080 597558
+~ Move `main_dlg_cur` `proe_win` 9 431 468 0 516 1169 612 1920 1080 597562
+~ Move `main_dlg_cur` `proe_win` 9 433 468 0 516 1169 612 1920 1080 597565
+~ Move `main_dlg_cur` `proe_win` 9 434 468 0 516 1169 612 1920 1080 597567
+~ Move `main_dlg_cur` `proe_win` 9 435 468 0 516 1169 612 1920 1080 597569
+~ Move `main_dlg_cur` `proe_win` 9 437 468 0 516 1169 612 1920 1080 597571
+~ Move `main_dlg_cur` `proe_win` 9 438 468 0 516 1169 612 1920 1080 597573
+~ Move `main_dlg_cur` `proe_win` 9 439 468 0 516 1169 612 1920 1080 597575
+~ Move `main_dlg_cur` `proe_win` 9 440 468 0 516 1169 612 1920 1080 597576
+~ Move `main_dlg_cur` `proe_win` 9 442 468 0 516 1169 612 1920 1080 597578
+~ Move `main_dlg_cur` `proe_win` 9 444 468 0 516 1169 612 1920 1080 597581
+~ Move `main_dlg_cur` `proe_win` 9 446 468 0 516 1169 612 1920 1080 597582
+~ Move `main_dlg_cur` `proe_win` 9 447 468 0 516 1169 612 1920 1080 597583
+~ Move `main_dlg_cur` `proe_win` 9 449 468 0 516 1169 612 1920 1080 597586
+~ Move `main_dlg_cur` `proe_win` 9 451 469 0 1540 1169 612 1920 1080 597588
+~ Move `main_dlg_cur` `proe_win` 9 452 469 0 516 1169 612 1920 1080 597589
+~ Move `main_dlg_cur` `proe_win` 9 454 469 0 516 1169 612 1920 1080 597591
+~ Move `main_dlg_cur` `proe_win` 9 457 470 0 1540 1169 612 1920 1080 597594
+~ Move `main_dlg_cur` `proe_win` 9 459 471 0 1540 1169 612 1920 1080 597596
+~ Move `main_dlg_cur` `proe_win` 9 461 472 0 1540 1169 612 1920 1080 597598
+~ Move `main_dlg_cur` `proe_win` 9 463 472 0 516 1169 612 1920 1080 597601
+~ Move `main_dlg_cur` `proe_win` 9 465 473 0 1540 1169 612 1920 1080 597602
+~ Move `main_dlg_cur` `proe_win` 9 467 474 0 1540 1169 612 1920 1080 597604
+~ Move `main_dlg_cur` `proe_win` 9 469 475 0 1540 1169 612 1920 1080 597606
+~ Move `main_dlg_cur` `proe_win` 9 471 476 0 1540 1169 612 1920 1080 597608
+~ Move `main_dlg_cur` `proe_win` 9 473 477 0 1540 1169 612 1920 1080 597610
+~ Move `main_dlg_cur` `proe_win` 9 476 478 0 1540 1169 612 1920 1080 597612
+~ Move `main_dlg_cur` `proe_win` 9 479 480 0 1540 1169 612 1920 1080 597616
+~ Move `main_dlg_cur` `proe_win` 9 480 481 0 1540 1169 612 1920 1080 597617
+~ Move `main_dlg_cur` `proe_win` 9 481 481 0 516 1169 612 1920 1080 597618
+~ Move `main_dlg_cur` `proe_win` 9 483 483 0 1540 1169 612 1920 1080 597620
+~ Move `main_dlg_cur` `proe_win` 9 485 484 0 1540 1169 612 1920 1080 597622
+~ Move `main_dlg_cur` `proe_win` 9 487 484 0 516 1169 612 1920 1080 597624
+~ Move `main_dlg_cur` `proe_win` 9 487 485 0 1028 1169 612 1920 1080 597625
+~ Move `main_dlg_cur` `proe_win` 9 488 486 0 1540 1169 612 1920 1080 597626
+~ Move `main_dlg_cur` `proe_win` 9 489 486 0 516 1169 612 1920 1080 597627
+~ Move `main_dlg_cur` `proe_win` 9 491 487 0 1540 1169 612 1920 1080 597630
+~ Move `main_dlg_cur` `proe_win` 9 492 488 0 1540 1169 612 1920 1080 597632
+~ Move `main_dlg_cur` `proe_win` 9 493 489 0 1540 1169 612 1920 1080 597634
+~ Move `main_dlg_cur` `proe_win` 9 495 490 0 1540 1169 612 1920 1080 597635
+~ Move `main_dlg_cur` `proe_win` 9 496 491 0 1540 1169 612 1920 1080 597637
+~ Move `main_dlg_cur` `proe_win` 9 498 492 0 1540 1169 612 1920 1080 597640
+~ Move `main_dlg_cur` `proe_win` 9 499 493 0 1540 1169 612 1920 1080 597642
+~ Move `main_dlg_cur` `proe_win` 9 500 494 0 1540 1169 612 1920 1080 597644
+~ Move `main_dlg_cur` `proe_win` 9 501 494 0 516 1169 612 1920 1080 597645
+~ Move `main_dlg_cur` `proe_win` 9 502 495 0 1540 1169 612 1920 1080 597648
+~ Move `main_dlg_cur` `proe_win` 9 502 496 0 1028 1169 612 1920 1080 597650
+~ Move `main_dlg_cur` `proe_win` 9 504 497 0 1540 1169 612 1920 1080 597653
+~ Move `main_dlg_cur` `proe_win` 9 505 497 0 516 1169 612 1920 1080 597654
+~ Move `main_dlg_cur` `proe_win` 9 506 498 0 1540 1169 612 1920 1080 597657
+~ Move `main_dlg_cur` `proe_win` 9 507 499 0 1540 1169 612 1920 1080 597661
+~ Move `main_dlg_cur` `proe_win` 9 508 500 0 1540 1169 612 1920 1080 597667
+~ Timer `UI Desktop` `UI Desktop` `popupMenuRMBTimerCB`
+@ sel_rmb_cmds 1
+~ RButtonDisarm `main_dlg_cur` `proe_win` 9 508 500 0 256 1169 612 1920 1080 597974
+~ Exit `main_dlg_cur` `proe_win` 9 509 501 0 1540 1169 612 1920 1080 597977
+~ Close `rmb_popup` `PopupMenu`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+< 0 0.725333 1305 0 0 612 1920 0 0 1080 13
+< 0 0.725333 1175 0 0 612 1920 0 0 1080 13
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `corner_bracket_28x28x20.prt`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+!24-Jan-24 06:49:04  Start C:\Users\yus19\OneDrive\SIT\Capstone\SIT-IBTFProject\CAD Model\CAD\corner_bracket_28x28x20.prt.1
+!24-Jan-24 06:49:04  End   C:\Users\yus19\OneDrive\SIT\Capstone\SIT-IBTFProject\CAD Model\CAD\corner_bracket_28x28x20.prt.1
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 0 0.725333 1169 0 0 612 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+< 0 0.725333 1305 0 0 612 1920 0 0 1080 13
+< 0 0.725333 1175 0 0 612 1920 0 0 1080 13
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `60alu22l.prt`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+!24-Jan-24 06:49:20  Start C:\Users\yus19\OneDrive\SIT\Capstone\SIT-IBTFProject\CAD Model\CAD\60alu22l.prt.2
+!24-Jan-24 06:49:20  End   C:\Users\yus19\OneDrive\SIT\Capstone\SIT-IBTFProject\CAD Model\CAD\60alu22l.prt.2
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 0 0.725333 1169 0 0 612 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ LButtonArm `main_dlg_cur` `proe_win` 9 187 282 0 1 1169 612 1920 1080 627548
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 187 282 0 0 1169 612 1920 1080 627661
+@sel_pz_xyz -48.0238970588 454.9632352941 -48.0238970588 454.9632352941 0.0000000000
+@ sel view 0
+ -10.930608 -0.800653 -0.084412 0.103143 -0.252960 -10.956812
+ 0.798456 -10.928007 0.259811 500.000000 421.875000 -1894.239245 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Open `file_saveas` `type_option`
+~ Close `file_saveas` `type_option`
+~ Select `file_saveas` `type_option` 1 `db_549`
+~ Activate `file_saveas` `chk_customize_export` 1
+~ Activate `file_saveas` `OK`
+~ Update `export_slice` `ChordHeightPanel` `0.01`
+~ Activate `export_slice` `ChordHeightPanel`
+~ FocusOut `export_slice` `ChordHeightPanel`
+~ Activate `export_slice` `Apply`
+!%CI2116 triangles have been written in output file 60alu22l.stl.
+~ Activate `export_slice` `OK`
+!%CI2116 triangles have been written in output file 60alu22l.stl.
+~ Move `main_dlg_cur` `main_dlg_cur` 2 11.236330 2.127896
+~ LButtonArm `main_dlg_cur` `proe_win` 9 930 138 0 1 1169 612 1920 1080 682243
+~ Move `main_dlg_cur` `proe_win` 9 930 138 0 1 1169 612 1920 1080 682246
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 930 138 0 0 1169 612 1920 1080 682262
+@sel_pz_xyz 976.3327205882 653.4926470588 976.3327205882 653.4926470588 0.0000000000
+@ sel view 0
+ -10.930608 -0.800653 -0.084412 0.103143 -0.252960 -10.956812
+ 0.798456 -10.928007 0.259811 500.000000 421.875000 -1894.239245 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1920 0 0 1080 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `60alu22r.prt`
+~ Command `ProFileSelPushOpen_Standard@context_dlg_open_cmd` 
+!Command ProCmdModelOpenExe was pushed from the software.
+< 2 0.832000 832 0 0 832 1920 0 0 1080 13
+< 2 1.052000 1052 0 0 1000 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1000 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1003 1920 0 0 1080 13
+< 2 1.055000 1055 0 0 1006 1920 0 0 1080 13
+< 2 1.028000 1028 0 0 1006 1920 0 0 1080 13
+< 2 0.726519 1290 0 0 613 1920 0 0 1080 13
+< 2 0.726519 1175 0 0 613 1920 0 0 1080 13
+!24-Jan-24 06:50:20  Start C:\Users\yus19\OneDrive\SIT\Capstone\SIT-IBTFProject\CAD Model\CAD\60alu22r.prt.2
+!24-Jan-24 06:50:20  End   C:\Users\yus19\OneDrive\SIT\Capstone\SIT-IBTFProject\CAD Model\CAD\60alu22r.prt.2
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+< 2 0.726519 1169 0 0 613 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Open `file_saveas` `type_option`
+~ Close `file_saveas` `type_option`
+~ Select `file_saveas` `type_option` 1 `db_549`
+~ Activate `file_saveas` `chk_customize_export` 1
+~ Activate `file_saveas` `OK`
+~ Update `export_slice` `ChordHeightPanel` `0.01`
+~ Activate `export_slice` `ChordHeightPanel`
+~ FocusOut `export_slice` `ChordHeightPanel`
+~ Activate `export_slice` `Apply`
+!%CI2116 triangles have been written in output file 60alu22r.stl.
+~ Activate `export_slice` `OK`
+!%CI2116 triangles have been written in output file 60alu22r.stl.
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w2:PHTLeft.AssyTree:<NULL>`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+< 2 0.726519 1305 0 0 613 1920 0 0 1080 13
+< 2 0.726519 1175 0 0 613 1920 0 0 1080 13
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+!MT_CUST - Applied settings for mode # 1 : MT Part Solid
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

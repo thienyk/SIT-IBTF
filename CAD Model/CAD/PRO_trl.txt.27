@@ -1,0 +1,69 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdEditRedefFeat.
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style on, Tab style off, Mini Dashboard style off. Feature title : Component Placement
+!ODUI session started.
+!%CPSelect any reference for auto type constraining.
+~ Activate `main_dlg_cur` `dashInst0.stdbtn_2`
+!ODUI session finished.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 24 248 0 1 1175 608 1920 1080 282405
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 24 248 0 0 1175 608 1920 1080 282501
+@sel_pz_xyz -281.9952713816 499.5888157895 118.7415707237 506.1389802632 0.0000000000
+@ sel view 0
+ -0.607337 0.001783 -1.459488 -0.299816 1.546945 0.126652
+ 1.428363 0.325464 -0.593987 492.833016 219.053387 -1634.266528 1.953125 0.000000 0
+@ stack attr 8
+@ stack attr -1 -1  1
+@ stack attr twk_s_eps
+~ Wheel `main_dlg_cur` `proe_win` 9 552 354 393216 0 1175 608 1920 1080 283220
+~ Wheel `main_dlg_cur` `proe_win` 9 552 354 393216 0 1175 608 1920 1080 283543
+~ MButtonArm `main_dlg_cur` `proe_win` 9 589 318 0 1026 1175 608 1920 1080 284480
+~ Move `main_dlg_cur` `proe_win` 9 589 319 0 1026 1175 608 1920 1080 284500
+~ Move `main_dlg_cur` `proe_win` 9 589 320 0 1026 1175 608 1920 1080 284504
+~ Move `main_dlg_cur` `proe_win` 9 589 321 0 1026 1175 608 1920 1080 284505
+~ Move `main_dlg_cur` `proe_win` 9 589 322 0 1026 1175 608 1920 1080 284509
+~ Move `main_dlg_cur` `proe_win` 9 589 323 0 1026 1175 608 1920 1080 284513
+~ Move `main_dlg_cur` `proe_win` 9 587 325 0 1538 1175 608 1920 1080 284544
+~ Move `main_dlg_cur` `proe_win` 9 586 325 0 514 1175 608 1920 1080 284626
+~ Move `main_dlg_cur` `proe_win` 9 582 327 0 1538 1175 608 1920 1080 284653
+~ Move `main_dlg_cur` `proe_win` 9 581 327 0 514 1175 608 1920 1080 284658
+~ Move `main_dlg_cur` `proe_win` 9 581 328 0 1026 1175 608 1920 1080 284662
+~ Move `main_dlg_cur` `proe_win` 9 580 328 0 514 1175 608 1920 1080 284667
+~ Move `main_dlg_cur` `proe_win` 9 579 328 0 514 1175 608 1920 1080 284674
+~ Move `main_dlg_cur` `proe_win` 9 579 329 0 1026 1175 608 1920 1080 284679
+~ Move `main_dlg_cur` `proe_win` 9 578 329 0 514 1175 608 1920 1080 284683
+~ Move `main_dlg_cur` `proe_win` 9 577 329 0 514 1175 608 1920 1080 284701
+~ Move `main_dlg_cur` `proe_win` 9 576 329 0 514 1175 608 1920 1080 284792
+~ Move `main_dlg_cur` `proe_win` 9 575 329 0 514 1175 608 1920 1080 284872
+~ Move `main_dlg_cur` `proe_win` 9 575 328 0 1026 1175 608 1920 1080 284887
+~ Move `main_dlg_cur` `proe_win` 9 574 328 0 514 1175 608 1920 1080 284891
+~ Move `main_dlg_cur` `proe_win` 9 573 328 0 514 1175 608 1920 1080 284904
+~ Move `main_dlg_cur` `proe_win` 9 573 327 0 1026 1175 608 1920 1080 284918
+~ Move `main_dlg_cur` `proe_win` 9 572 327 0 514 1175 608 1920 1080 284926
+~ Move `main_dlg_cur` `proe_win` 9 572 326 0 1026 1175 608 1920 1080 284936
+~ Move `main_dlg_cur` `proe_win` 9 571 325 0 1538 1175 608 1920 1080 284957
+~ Move `main_dlg_cur` `proe_win` 9 571 324 0 1026 1175 608 1920 1080 284966
+~ Move `main_dlg_cur` `proe_win` 9 571 323 0 1026 1175 608 1920 1080 284980
+~ Move `main_dlg_cur` `proe_win` 9 571 322 0 1026 1175 608 1920 1080 284993
+~ Move `main_dlg_cur` `proe_win` 9 571 321 0 1026 1175 608 1920 1080 285008
+~ Move `main_dlg_cur` `proe_win` 9 571 320 0 1026 1175 608 1920 1080 285016
+~ Move `main_dlg_cur` `proe_win` 9 571 319 0 1026 1175 608 1920 1080 285030
+~ Move `main_dlg_cur` `proe_win` 9 571 318 0 1026 1175 608 1920 1080 285038
+~ Move `main_dlg_cur` `proe_win` 9 571 317 0 1026 1175 608 1920 1080 285051
+~ Move `main_dlg_cur` `proe_win` 9 571 316 0 1026 1175 608 1920 1080 285055
+~ Move `main_dlg_cur` `proe_win` 9 571 315 0 1026 1175 608 1920 1080 285063
+~ Move `main_dlg_cur` `proe_win` 9 571 314 0 1026 1175 608 1920 1080 285072
+~ Move `main_dlg_cur` `proe_win` 9 572 314 0 514 1175 608 1920 1080 285079
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 572 314 0 0 1175 608 1920 1080 285089
+~ Wheel `main_dlg_cur` `proe_win` 9 365 284 458752 0 1175 608 1920 1080 285765
+~ Wheel `main_dlg_cur` `proe_win` 9 365 284 458752 0 1175 608 1920 1080 285998
+~ Move `main_dlg_cur` `main_dlg_cur` 2 11.106580 2.698795
+~ Move `main_dlg_cur` `main_dlg_cur` 2 12.144578 3.010195
+~ Move `main_dlg_cur` `main_dlg_cur` 2 2.127896 2.958295
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
